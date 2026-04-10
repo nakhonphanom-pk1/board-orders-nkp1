@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-04-10T11:02:10.849Z",
-  "total": 10,
+  "exported_at": "2026-04-10T11:05:56.605Z",
+  "total": 247,
   "schools": [
     {
       "sch_id": "1048190001",
@@ -174,6 +174,4611 @@
           "upload_user": "นางสาวธภิรา พลหิรัญสุข",
           "created_at": "2025-01-31 14:48:31",
           "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190014/1738309711_de995cc540df5f953c20.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190015",
+      "name": "บ้านดอนยานาง",
+      "row_num": 11,
+      "orders": [
+        {
+          "id": "41050",
+          "description": "คำสั่งปพ.3 แก้ไขผู้ตรวจทาน",
+          "upload_user": "อภิสรา เคนคม",
+          "created_at": "2025-04-18 13:38:28",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190015/1744958303_f8d51b6af0f4319325b7.pdf"
+        },
+        {
+          "id": "38227",
+          "description": "คำสั่งปพ.3",
+          "upload_user": " ",
+          "created_at": "2025-04-13 12:49:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190015/1744523375_3d47d06883d45678b082.pdf"
+        },
+        {
+          "id": "38225",
+          "description": "คำสั่งปพ.1-2",
+          "upload_user": " ",
+          "created_at": "2025-04-13 12:48:18",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190015/1744523293_798ee5853795b5279a9c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190016",
+      "name": "บ้านโพธิ์ตาก",
+      "row_num": 12,
+      "orders": [
+        {
+          "id": "4051",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ปัทมา เสียงล้ำ",
+          "created_at": "2025-01-30 16:42:11",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190016/1738230131_2eb340c82b7ef43bd454.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190017",
+      "name": "บ้านสุขเกษม",
+      "row_num": 13,
+      "orders": [
+        {
+          "id": "53538",
+          "description": "คำสั่ง ปพ.3 โรงเรียนบ้านสุขเกษม",
+          "upload_user": " ",
+          "created_at": "2026-03-16 18:07:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190017/1773659173_2b74cafc6642c65a556e.pdf"
+        },
+        {
+          "id": "52325",
+          "description": "แต่งตั้งบุคลากรผู้ปฏิบัติหน้าที่ด้านงานทะเบียนโรงเรียนประจำปี",
+          "upload_user": "พิชามญธ์ ป.ณ นครพนม",
+          "created_at": "2026-03-12 16:16:15",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190017/1773306877_5fa369b444e9f6e08037.pdf"
+        },
+        {
+          "id": "29886",
+          "description": "แต่งตั้งบุคลากรผู้ปฏิบัติหน้าที่ด้านงานทะเบียนโรงเรียนประจำปี",
+          "upload_user": "พิชามญธ์ ป.ณ นครพนม",
+          "created_at": "2025-04-08 13:30:19",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190017/1744093813_7417db4ee30a316e6031.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190018",
+      "name": "บ้านหนองค้าโคกกุง",
+      "row_num": 14,
+      "orders": [
+        {
+          "id": "50630",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "นางกิ่งกาญจน์ ติณณารมย์ คูณดี",
+          "created_at": "2026-02-25 14:56:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190018/1772006098_726f968a892f70c26f03.pdf"
+        },
+        {
+          "id": "10487",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "นางกิ่งกาญจน์ ติณณารมย์ คูณดี",
+          "created_at": "2025-03-27 14:23:15",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190018/1743060195_e5119797b4970f980fc3.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190019",
+      "name": "บ้านนาคำโนนขาม",
+      "row_num": 15,
+      "orders": [
+        {
+          "id": "22924",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "กรรณิการ์ กระวานธง",
+          "created_at": "2025-04-04 14:15:42",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190019/1743750937_d87b3e10033674c77a57.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190020",
+      "name": "บ้านโคกก่อง",
+      "row_num": 16,
+      "orders": [
+        {
+          "id": "50052",
+          "description": "แต่งตั้งคณะกรรมการ ปพ.3 ปีการศึกษา 2568",
+          "upload_user": "สุพัตรา วรวงศ์",
+          "created_at": "2026-02-17 22:28:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190020/1771342021_705da670bcefd8690471.pdf"
+        },
+        {
+          "id": "36845",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการ บฟ.3",
+          "upload_user": "สุพัตรา วรวงศ์",
+          "created_at": "2025-04-11 20:57:44",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190020/1744379860_b9c6796314bfdaba9203.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190021",
+      "name": "บ้านหนองบัวหน้าฐานบิน",
+      "row_num": 17,
+      "orders": [
+        {
+          "id": "15683",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "จิรัชยา พิมายนอก",
+          "created_at": "2025-04-02 12:03:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190021/1743570217_263f23f5ff605fb945d0.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190022",
+      "name": "บ้านดอนม่วง",
+      "row_num": 18,
+      "orders": [
+        {
+          "id": "70748",
+          "description": "เรื่อง  แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "จำเนียร พรหมกูล",
+          "created_at": "2026-04-03 13:53:26",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190022/1775199206_7520d49abbbea0206cae.pdf"
+        },
+        {
+          "id": "43732",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": " ",
+          "created_at": "2025-04-24 08:54:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190022/1745459666_422e5738c4d7d5a6335a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190023",
+      "name": "ชุมชนนามนวิทยาคาร",
+      "row_num": 19,
+      "orders": [
+        {
+          "id": "13914",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "วราภรณ์ หะไว",
+          "created_at": "2025-04-01 11:04:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190023/1743480283_3ba28c3fdf1f99a3b461.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190024",
+      "name": "บ้านผึ้ง",
+      "row_num": 20,
+      "orders": [
+        {
+          "id": "3243",
+          "description": "คำสั่งโรงเรียนบ้านผึ้ง ปพ.3",
+          "upload_user": "ปริญญา ยศพรรษา",
+          "created_at": "2025-01-13 14:10:28",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190024/1736752228_e8650cddf44f5dcc2322.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190025",
+      "name": "บ้านวังกระแส",
+      "row_num": 21,
+      "orders": [
+        {
+          "id": "61611",
+          "description": "คำสั่งโรงเรียนบ้านวังกระแส เรื่องแต่งตั้งคณะกรรมการดำเนินการจัดทำรายงานผู้สำเร็จการศึกษา ระดับประถมศึกษา (ปพ.๓ ป)ปีการศึกษา ๒๕๖๘",
+          "upload_user": "ศรีพนม เทพบาล",
+          "created_at": "2026-03-28 20:36:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190025/1774704891_f4b0f74afac8970e14b3.pdf"
+        },
+        {
+          "id": "24315",
+          "description": "คำสั่งบ้านวังกระแส เรื่องแต่งตั้งคณะกรรมการดำเนินการจัดทำรายงายงานผู้สำเร็จการศึกษา ระดับประถมศึกษา (ปพ.๓ ป) ปีการศึกษา ๒๕๖๗",
+          "upload_user": "ศรีพนม เทพบาล",
+          "created_at": "2025-04-04 21:37:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190025/1743777429_3ab8df5b4df51e13a311.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190026",
+      "name": "บ้านสุขเจริญ",
+      "row_num": 22,
+      "orders": [
+        {
+          "id": "56145",
+          "description": "แต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์",
+          "upload_user": "กวินทรา หอมทอง",
+          "created_at": "2026-03-21 10:24:07",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190026/1774063347_7b4d1d9163a6b53894e9.pdf"
+        },
+        {
+          "id": "13807",
+          "description": "แต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์",
+          "upload_user": "กวินทรา หอมทอง",
+          "created_at": "2025-04-01 09:14:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190026/1743473644_6160b5882af2b05aacd5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190027",
+      "name": "ดงสว่างเจริญวิทย์",
+      "row_num": 23,
+      "orders": [
+        {
+          "id": "67994",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568 โรงเรียนดงสว่างเจริญวิทย์",
+          "upload_user": "ยุทธศิลป์ สุขชัยบวร",
+          "created_at": "2026-04-01 20:58:00",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190027/1775051777_93b723107e9cfda10648.pdf"
+        },
+        {
+          "id": "13353",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567 โรงเรียนดงสว่างเจริญวิทย์",
+          "upload_user": " ",
+          "created_at": "2025-03-31 20:21:36",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190027/1743427296_8df860ded5d45143211d.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190028",
+      "name": "รอดโพธิ์ทองวิทยาสรรค์",
+      "row_num": 24,
+      "orders": [
+        {
+          "id": "72573",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการจัดทำปพ.1 2568",
+          "upload_user": "ภานิดา   ชุนโย",
+          "created_at": "2026-04-06 16:08:39",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190028/1775466519_c7da0fa45966a375f80c.pdf"
+        },
+        {
+          "id": "30108",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการจัดทำปพ.1 ปีการศึกษา 2567",
+          "upload_user": " ",
+          "created_at": "2025-04-08 14:13:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190028/1744096384_98320f5f3b4a15dbcf9e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190029",
+      "name": "บ้านไทยสามัคคี",
+      "row_num": 25,
+      "orders": [
+        {
+          "id": "51140",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "ณฐิตา เหลาบัว",
+          "created_at": "2026-03-05 11:51:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190029/1772686211_36bac7b09f4382c6b96e.pdf"
+        },
+        {
+          "id": "25454",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "ณฐิตา เหลาบัว",
+          "created_at": "2025-04-05 16:10:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190029/1743844227_49acf8ece9571904de74.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190030",
+      "name": "บ้านนาป่ง",
+      "row_num": 26,
+      "orders": [
+        {
+          "id": "51146",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "จารุพร อรรถประจง",
+          "created_at": "2026-03-05 12:32:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190030/1772688644_f548b5ae101cab9ff555.pdf"
+        },
+        {
+          "id": "26030",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "จารุพร อรรถประจง",
+          "created_at": "2025-04-06 09:29:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190030/1743906558_dd8ee8c39e342b4c0268.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190031",
+      "name": "บ้านหนองปลาดุก",
+      "row_num": 27,
+      "orders": [
+        {
+          "id": "48997",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พิชญ์นรินทร์  ชามัสชิมา",
+          "created_at": "2026-01-14 10:46:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190031/1768362317_e492cf027e19c6672de0.pdf"
+        },
+        {
+          "id": "3464",
+          "description": "เรื่อง แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พิชญ์นรินทร์  ชามัสชิมา",
+          "created_at": "2025-01-17 15:11:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190031/1737101489_aa3b304ea986971f8bce.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190032",
+      "name": "บ้านคำเตย(คำเตยราษฎร์ร่วมจิต)",
+      "row_num": 28,
+      "orders": [
+        {
+          "id": "50385",
+          "description": "คำสั่งโรงเรียนบ้านคำเตย(คำเตยราษฎร์ร่วมจิต) ที่ 49/2569 แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "ศุภัชญา เทือกทาคำ",
+          "created_at": "2026-02-23 12:01:36",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190032/1771822803_55c04575b311c821bb6b.pdf"
+        },
+        {
+          "id": "19342",
+          "description": "คำสั่งโรงเรียนบ้านคำเตย(คำเตยราษฎร์ร่วมจิต) ที่ 59/2568 แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ศุภัชญา เทือกทาคำ",
+          "created_at": "2025-04-03 15:01:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190032/1743667276_acdd321894a87193c949.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190033",
+      "name": "บ้านโพนค้อโพนสวรรค์",
+      "row_num": 29,
+      "orders": [
+        {
+          "id": "59487",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ราวรรณ์ สุขรี",
+          "created_at": "2026-03-26 12:00:48",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190033/1774501146_382528632bb8151f6b4f.pdf"
+        },
+        {
+          "id": "41528",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ราวรรณ์ สุขรี",
+          "created_at": "2025-04-19 14:58:23",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190033/1745049497_37e5ebc72f3daeb9edf9.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190034",
+      "name": "บ้านหนองยาว",
+      "row_num": 30,
+      "orders": [
+        {
+          "id": "66889",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "มาริสา อันทรโคตร",
+          "created_at": "2026-04-01 12:25:28",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190034/1775021025_73b5d6edcbe8ed08254c.pdf"
+        },
+        {
+          "id": "21994",
+          "description": "เรื่อง  แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.3) ปีการศึกษา 2567",
+          "upload_user": " ",
+          "created_at": "2025-04-04 11:50:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190034/1743742224_02f1ca53ccd9271dc483.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190035",
+      "name": "บ้านหนองดินแดง",
+      "row_num": 31,
+      "orders": [
+        {
+          "id": "68699",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "สรัญญา ประสงค์สุข",
+          "created_at": "2026-04-02 11:36:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190035/1775104502_99b695db114533b066f2.pdf"
+        },
+        {
+          "id": "22399",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา",
+          "upload_user": "สรัญญา ประสงค์สุข",
+          "created_at": "2025-04-04 12:48:08",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190035/1743745683_826fbcfad6f0f4cf5928.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190036",
+      "name": "บ้านดอนแดงเจริญทอง",
+      "row_num": 32,
+      "orders": [
+        {
+          "id": "8373",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการโรงเรียนบ้านดอนแดงเจริญทอง",
+          "upload_user": "ดวงสุรีย์ มาตรศรี",
+          "created_at": "2025-03-17 22:26:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190036/1742225191_b666f4fe84781fb2c0d8.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190037",
+      "name": "บ้านวังไฮหนองกุง",
+      "row_num": 33,
+      "orders": [
+        {
+          "id": "49465",
+          "description": "คำสั่งปพ3ปีการศึกษา2568",
+          "upload_user": "จินตนา ไกรษร",
+          "created_at": "2026-02-04 11:36:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190037/1770179719_7df3e3926670736ec936.pdf"
+        },
+        {
+          "id": "16828",
+          "description": "คำสั่งปพ3",
+          "upload_user": " ",
+          "created_at": "2025-04-02 17:06:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190037/1743588406_0bb2e74ac2b6e082a461.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190038",
+      "name": "บ้านทุ่งมน",
+      "row_num": 34,
+      "orders": [
+        {
+          "id": "50567",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการ",
+          "upload_user": "สุภาพร งาสิทธิ์",
+          "created_at": "2026-02-24 15:28:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190038/1771921638_662adc17fb255096dc69.pdf"
+        },
+        {
+          "id": "18033",
+          "description": "คำสั่ง แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ณัชชวกร สัตถาผล",
+          "created_at": "2025-04-03 11:04:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190038/1743653060_e54219f664ac226029db.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190039",
+      "name": "บ้านโพนป่าหว้าน",
+      "row_num": 35,
+      "orders": [
+        {
+          "id": "41113",
+          "description": "คำสั่ง",
+          "upload_user": " ",
+          "created_at": "2025-04-18 14:32:35",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190039/1744961549_7577ee7b8f5cf3eb0c74.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190040",
+      "name": "บ้านกุรุคุ",
+      "row_num": 36,
+      "orders": [
+        {
+          "id": "51393",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พัฒนะ เพชรชม",
+          "created_at": "2026-03-09 09:04:12",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190040/1773021755_a2fb4dcf28c6fafac5f8.pdf"
+        },
+        {
+          "id": "4700",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พัฒนะ เพชรชม",
+          "created_at": "2025-02-10 16:04:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190040/1739178286_70e35d0b2147be341032.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190041",
+      "name": "บ้านหนองบัวด่านเก่า",
+      "row_num": 37,
+      "orders": [
+        {
+          "id": "20475",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ประจำปีการศึกษา 2567",
+          "upload_user": "กัลยรัตน์ กุดวงศ์แก้ว",
+          "created_at": "2025-04-03 18:37:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190041/1743680271_7bc7c1ff9eb63f3795fc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190042",
+      "name": "บ้านหนองหญ้าไซ",
+      "row_num": 38,
+      "orders": [
+        {
+          "id": "24463",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นันทพร สะค้าน",
+          "created_at": "2025-04-04 23:55:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190042/1743785724_907ce706f5813036dcd5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190043",
+      "name": "บ้านวังตามัว",
+      "row_num": 39,
+      "orders": [
+        {
+          "id": "52932",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ทักษพร ข่วงทิพย์",
+          "created_at": "2026-03-16 08:54:01",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190043/1773625942_15f8ec27410ef0db2804.pdf"
+        },
+        {
+          "id": "3707",
+          "description": "คำสั่งเรื่อง แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ทักษพร ข่วงทิพย์",
+          "created_at": "2025-01-23 13:26:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190043/1737613584_221575d44e34fc3d9207.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190044",
+      "name": "บ้านหนองแซง",
+      "row_num": 40,
+      "orders": [
+        {
+          "id": "48994",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "นุสรา ไมยะปัน",
+          "created_at": "2026-01-13 17:09:01",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190044/1768298858_73442c95dce652d0334c.pdf"
+        },
+        {
+          "id": "28044",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "นุสรา ไมยะปัน",
+          "created_at": "2025-04-07 16:48:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190044/1744019324_5b223cabeca527f99615.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190045",
+      "name": "บ้านโชคอํานวย",
+      "row_num": 41,
+      "orders": [
+        {
+          "id": "57578",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "ภัทรดา ตะวงษ์สา",
+          "created_at": "2026-03-24 11:28:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190045/1774326433_0d3c4bbed461b0b71768.pdf"
+        },
+        {
+          "id": "24331",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ภัทรดา ตะวงษ์สา",
+          "created_at": "2025-04-04 21:42:58",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190045/1743777773_eff15c9415ad802154ea.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190046",
+      "name": "บ้านคำสว่าง",
+      "row_num": 42,
+      "orders": [
+        {
+          "id": "3978",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "อัจฉราวดี สายืน",
+          "created_at": "2025-01-29 22:56:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190046/1738166193_7c52504cffa4b331a2cf.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190047",
+      "name": "บ้านท่าค้อ(ชุณห์ประสาทศิลป์)",
+      "row_num": 43,
+      "orders": [
+        {
+          "id": "51746",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": " ",
+          "created_at": "2026-03-10 15:34:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190047/1773131567_dc5ba950cd10ec5c5ba7.pdf"
+        },
+        {
+          "id": "23493",
+          "description": "คำสั่งปพ.3  ออนไลน์ โรงเรียนบ้านท่าค้อ(ชุณห์ประสาทศิลป์)",
+          "upload_user": "วิมลรัตน์ เข็มปัญญา",
+          "created_at": "2025-04-04 16:01:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190047/1743757300_5f5e5784add18a06e493.pdf"
+        },
+        {
+          "id": "8679",
+          "description": "แต่งตั้งคณะกรรมการ จัดทำ ตรวจสอบ ปพ",
+          "upload_user": "วิมลรัตน์ เข็มปัญญา",
+          "created_at": "2025-03-19 10:08:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190047/1742353690_d4528bd87172edbad166.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190048",
+      "name": "บ้านหนองจันทน์",
+      "row_num": 44,
+      "orders": [
+        {
+          "id": "52781",
+          "description": "แต่งตั้งนายทะเบียน",
+          "upload_user": "อิ่มมา เพ็งวัน",
+          "created_at": "2026-03-13 16:52:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190048/1773395455_03f6d805a6e58164bd12.pdf"
+        },
+        {
+          "id": "17582",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": " ",
+          "created_at": "2025-04-03 10:09:23",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190048/1743649759_a2e0fd8c7916319b80b4.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190050",
+      "name": "บ้านนาหลวง",
+      "row_num": 45,
+      "orders": [
+        {
+          "id": "23765",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "พัชราวลี  คำเถื่อน",
+          "created_at": "2025-04-04 17:02:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190050/1743760966_ea9245c13164263c1ee4.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190051",
+      "name": "บ้านกล้วย",
+      "row_num": 46,
+      "orders": [
+        {
+          "id": "49302",
+          "description": "คำสั่งเรื่อง แต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์",
+          "upload_user": "อธิชา อะสุชีวะ",
+          "created_at": "2026-01-29 16:03:39",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190051/1769677332_10b69c2ab836aad39b09.pdf"
+        },
+        {
+          "id": "31643",
+          "description": "คำสั่งเรื่อง แต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์",
+          "upload_user": "อธิชา อะสุชีวะ",
+          "created_at": "2025-04-09 09:56:58",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190051/1744167412_244181d272771656b337.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190052",
+      "name": "บ้านชะโนต",
+      "row_num": 47,
+      "orders": [
+        {
+          "id": "56286",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน (ปพ.3) ปีการศึกษา 2568 โรงเรียนบ้านชะโนต สพป.นครพนม เขต 1",
+          "upload_user": "พิมพ์สุชา บัวชุม",
+          "created_at": "2026-03-22 09:01:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190052/1774144764_88f61e547628ebd707a4.pdf"
+        },
+        {
+          "id": "2775",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน (ปพ.3) โรงเรียนบ้านชะโนต สพป.นครพนม เขต 1",
+          "upload_user": "นางพิมพ์สุชา บัวชุม",
+          "created_at": "2024-12-30 12:28:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190052/1735536496_816e3daadcf11dcd8bdc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190053",
+      "name": "บ้านชะโงมนาโดน",
+      "row_num": 48,
+      "orders": [
+        {
+          "id": "33483",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนโรงเรียน",
+          "upload_user": "ศุภชัย โพธิราช",
+          "created_at": "2025-04-09 18:56:01",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190053/1744199755_1b1afb3c19c2c32c46d2.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190054",
+      "name": "บ้านขามเฒ่ากุดข้าวปุ้น(ราษฎร์อุทิศ)",
+      "row_num": 49,
+      "orders": [
+        {
+          "id": "72424",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ปพ. 3",
+          "upload_user": "ศราวุฒิ เชื้อคำเพ็ง",
+          "created_at": "2026-04-06 12:59:27",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190054/1775455167_0e93d7c62f0a5854fb4b.pdf"
+        },
+        {
+          "id": "19100",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ปพ. 3",
+          "upload_user": " ",
+          "created_at": "2025-04-03 13:19:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190054/1743661181_22764a47fae3bd57acb6.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190055",
+      "name": "บ้านน้อยใต้",
+      "row_num": 50,
+      "orders": [
+        {
+          "id": "70673",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการตรวจปพ.3",
+          "upload_user": "มนตกานต์ จิตชาตรี",
+          "created_at": "2026-04-03 13:28:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190055/1775197737_c3676dba4f395901393e.pdf"
+        },
+        {
+          "id": "36549",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการตรวจปพ.3",
+          "upload_user": "มนตกานต์ จิตชาตรี",
+          "created_at": "2025-04-11 17:00:00",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190055/1744365596_720a72058922f0da4bf9.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190056",
+      "name": "บ้านกลางบ้านหนาด",
+      "row_num": 51,
+      "orders": [
+        {
+          "id": "53515",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "อิศริยา โคตรสขึง",
+          "created_at": "2026-03-16 16:42:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190056/1773654077_a700649d3b3c5898d5f0.pdf"
+        },
+        {
+          "id": "41010",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "อิศริยา โคตรสขึง",
+          "created_at": "2025-04-18 13:03:41",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190056/1744956216_d163ac8e7c18dea23c2b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190057",
+      "name": "บ้านดงต้อง(ดงขวางราษฎร์บำรุง)",
+      "row_num": 52,
+      "orders": [
+        {
+          "id": "24363",
+          "description": "แต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "ธัญกร ลีมุน",
+          "created_at": "2025-04-04 22:03:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190057/1743778978_a047a5933096e0a7e64a.pdf"
+        },
+        {
+          "id": "23381",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ ปพ.3 vvow]oN",
+          "upload_user": "ธัญกร ลีมุน",
+          "created_at": "2025-04-04 15:36:55",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190057/1743755810_af0dfcfbda60b829c720.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190058",
+      "name": "บ้านกลางน้อย",
+      "row_num": 53,
+      "orders": [
+        {
+          "id": "40785",
+          "description": "คำสั่งเเต่งตั้งคณะกรรมการวิชาการ ปพ.3 ออนไลน์",
+          "upload_user": "จักรพันธ์ หลีแก้วเครือ",
+          "created_at": "2025-04-18 10:23:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190058/1744946628_0d9e4983e0a3e72f2bc5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190059",
+      "name": "บ้านดงติ้ว",
+      "row_num": 54,
+      "orders": [
+        {
+          "id": "43349",
+          "description": "  แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน    ",
+          "upload_user": "วลัยพร พิมพงษ์",
+          "created_at": "2025-04-23 12:05:17",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190059/1745384711_05b2e8edf8d5a531343a.pdf"
+        },
+        {
+          "id": "41691",
+          "description": "  แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน    ",
+          "upload_user": "วลัยพร พิมพงษ์",
+          "created_at": "2025-04-20 10:53:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190059/1745121178_188bd0acb6e7d71d3710.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190060",
+      "name": "บ้านดงยอ",
+      "row_num": 55,
+      "orders": [
+        {
+          "id": "75126",
+          "description": "คำสั่งเรื่อง แต่งตั้งคณะกรรมการวิชาการ ปพ3 ปีการศึกษา 2568",
+          "upload_user": "สโรชา สุขัน",
+          "created_at": "2026-04-10 16:45:30",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190060/1775814330_e84e61332d6f205fbeb0.pdf"
+        },
+        {
+          "id": "27020",
+          "description": "คำสั่งเรื่อง  แต่งตั้งคณะกรรมการวิชาการ ปพ3 ",
+          "upload_user": "สโรชา สุขัน",
+          "created_at": "2025-04-07 08:08:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190060/1743988083_5121d4784057386bc583.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190061",
+      "name": "บ้านนาคอกควาย",
+      "row_num": 56,
+      "orders": [
+        {
+          "id": "10990",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วิฆเนศ แสงนา",
+          "created_at": "2025-03-29 07:59:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190061/1743209985_56df9c4192964f894aef.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190062",
+      "name": "บ้านกกไฮ",
+      "row_num": 57,
+      "orders": [
+        {
+          "id": "43648",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ภิชัย โทปะ",
+          "created_at": "2025-04-23 18:51:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190062/1745409084_09f0f7d2f86c2b6293b2.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190063",
+      "name": "อนุบาลนครพนม",
+      "row_num": 58,
+      "orders": [
+        {
+          "id": "67472",
+          "description": "คำสั่งงานบริหารวิชาการ ปีการศึกษา 2568",
+          "upload_user": "ปิยนันท์  คนหมั่น",
+          "created_at": "2026-04-01 15:04:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190063/1775030553_cfdd307c7277f64d2be6.pdf"
+        },
+        {
+          "id": "16299",
+          "description": "คำสั่งงานบริหารวิชาการ ปีการศึกษา 2567",
+          "upload_user": "ลัดดา สิทธิศักดิ์ธนกุล",
+          "created_at": "2025-04-02 14:31:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190063/1743579111_f1cb1fa16b111460ede5.pdf"
+        },
+        {
+          "id": "16287",
+          "description": "คำสั่งงานบริหารวิชาการ ปีการศึกษา 2567",
+          "upload_user": "ลัดดา สิทธิศักดิ์ธนกุล",
+          "created_at": "2025-04-02 14:23:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190063/1743578630_4ed85e98c31d57773203.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190065",
+      "name": "บ้านหนองญาติ",
+      "row_num": 59,
+      "orders": [
+        {
+          "id": "32748",
+          "description": "เรื่อง  การแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการของโรงเรียน",
+          "upload_user": "สายัณต์ ชัวนินนี",
+          "created_at": "2025-04-09 14:11:41",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190065/1744182695_7b08cd8e64d2542b6089.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190066",
+      "name": "บ้านดงโชค",
+      "row_num": 60,
+      "orders": [
+        {
+          "id": "57656",
+          "description": "คำสั่งคณะกรรมการวิชาการโรงเรียนบ้านดงโชค",
+          "upload_user": "ธัญลักษณ์  ดีจันทร์",
+          "created_at": "2026-03-24 12:20:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190066/1774329539_20478c9f95ccecb954ab.pdf"
+        },
+        {
+          "id": "43605",
+          "description": "คำสั่งคณะกรรมการวิชาการโรงเรียนบ้านดงโชค",
+          "upload_user": "ธัญลักษณ์  ดีจันทร์",
+          "created_at": "2025-04-23 16:45:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190066/1745401538_1a1707e955db97740090.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190067",
+      "name": "บ้านคำพอก",
+      "row_num": 61,
+      "orders": [
+        {
+          "id": "54934",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ",
+          "upload_user": "สุชาดา ดวงสา",
+          "created_at": "2026-03-18 21:43:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190067/1773844904_08a74e149bcbff9cdad7.pdf"
+        },
+        {
+          "id": "14354",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นางสาวสุชาดา ดวงสา",
+          "created_at": "2025-04-01 15:19:53",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190067/1743495593_d881933966f5d4e45798.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190068",
+      "name": "บ้านเหล่าภูมีคำธาตุ",
+      "row_num": 62,
+      "orders": [
+        {
+          "id": "58237",
+          "description": "แต่งตั้งคณะกรรมการจัดทำแบบรายงานผู้สำเร็จการศึกษา ปพ.3",
+          "upload_user": "วราภรณ์ น้อยโส",
+          "created_at": "2026-03-25 09:31:28",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190068/1774405787_0bfaf52c682a03b65100.pdf"
+        },
+        {
+          "id": "10667",
+          "description": "แต่งตั้งคณะกรรมการจัดทำแบบรายงานผู้สำเร็จการศึกษา ปพ.3",
+          "upload_user": "วราภรณ์ น้อยโส",
+          "created_at": "2025-03-28 09:43:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190068/1743129834_87e4bb3b5e741fe08b02.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190115",
+      "name": "อนุบาลวัดพระธาตุพนม พนมวิทยาคาร",
+      "row_num": 63,
+      "orders": [
+        {
+          "id": "73841",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน 2568",
+          "upload_user": "ลิษา เกษรราช",
+          "created_at": "2026-04-08 12:37:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190115/1775626657_35f35c241dcb304d2a16.pdf"
+        },
+        {
+          "id": "45222",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พวนชัย มากมูล",
+          "created_at": "2025-04-28 21:48:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190115/1745851681_3657efcf433db38acc93.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190116",
+      "name": "บ้านหัวบึงทุ่งเขตการทางนครราชสีมาสงเคราะห์3",
+      "row_num": 64,
+      "orders": [
+        {
+          "id": "49025",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ศิมาพร จันทร์แดง",
+          "created_at": "2026-01-15 15:28:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190116/1768465628_0020fc59118efb4132b7.pdf"
+        },
+        {
+          "id": "15513",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ศิมาพร จันทร์แดง",
+          "created_at": "2025-04-02 11:25:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190116/1743567904_5734e43e3293875fe187.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190118",
+      "name": "บ้านหัวดอน(สำนักงานสลากกินแบ่งรัฐบาลสมทบสร้าง28)",
+      "row_num": 65,
+      "orders": [
+        {
+          "id": "16341",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบผู้สำเร็จการศึกษา (ปพ.3) ปีการศึกษา 2567",
+          "upload_user": "มลวดี ชนรินทร์",
+          "created_at": "2025-04-02 14:48:01",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190118/1743580081_b6e5ba677b7f96618202.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190119",
+      "name": "พระกลางวิทยาคาร",
+      "row_num": 66,
+      "orders": [
+        {
+          "id": "27753",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓)  ปีการศึกษา  ๒๕๖๗",
+          "upload_user": "กิตปกรณ์ สาวงค์",
+          "created_at": "2025-04-07 14:10:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190119/1744009828_cca4544c336d54408075.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190120",
+      "name": "มรุกขนคร",
+      "row_num": 67,
+      "orders": [
+        {
+          "id": "61778",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "จิตต์ลดา สุผาวัน",
+          "created_at": "2026-03-29 13:13:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190120/1774764720_b7674c5a4a42a97c909b.pdf"
+        },
+        {
+          "id": "16938",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "จิตต์ลดา สุผาวัน",
+          "created_at": "2025-04-02 22:22:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190120/1743607329_268c23f00c3c807095e0.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190122",
+      "name": "บ้านธาตุน้อยศรีบุญเรือง(พระราชธีราจารย์-ประชาอุปถัมภ์)",
+      "row_num": 68,
+      "orders": [
+        {
+          "id": "63002",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ 2568",
+          "upload_user": "เพ็ญนภา  ไชยสุระ",
+          "created_at": "2026-03-30 14:14:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190122/1774854795_584df29479e4c85a02a3.pdf"
+        },
+        {
+          "id": "43041",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "ปราณี  ลองทองกูล",
+          "created_at": "2025-04-22 18:53:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190122/1745322820_34b029c93d603bb34aa9.pdf"
+        },
+        {
+          "id": "23598",
+          "description": "แต่งตั้ง คกก. จัดทำ ปพ.3 ระดับประถมศึกษา",
+          "upload_user": "ปราณี  ลองทองกูล",
+          "created_at": "2025-04-04 16:21:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190122/1743758476_392f0afbaf4aea41c783.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190123",
+      "name": "บ้านดอนแดง",
+      "row_num": 69,
+      "orders": [
+        {
+          "id": "43867",
+          "description": "คำสั่งนายทะเบียบและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "สุดารัตน์ สมสิน",
+          "created_at": "2025-04-24 11:36:49",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190123/1745469402_2fa9b6160cac727f1728.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190124",
+      "name": "บ้านหนองกุดแคน",
+      "row_num": 70,
+      "orders": [
+        {
+          "id": "66093",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "อภิวัฒน์ ไชโย",
+          "created_at": "2026-03-31 21:14:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190124/1774966366_165927212536a9a5f014.pdf"
+        },
+        {
+          "id": "27515",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "อภิวัฒน์ ไชโย",
+          "created_at": "2025-04-07 12:26:19",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190124/1744003573_403fb897be947bb5be48.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190125",
+      "name": "บ้านน้ำก่ำ(ล้ำประชาอุปถัมภ์)",
+      "row_num": 71,
+      "orders": [
+        {
+          "id": "50564",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วัฒนา  บุญกอ",
+          "created_at": "2026-02-24 15:25:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190125/1771921416_b46ca5f548748224c6a1.pdf"
+        },
+        {
+          "id": "5121",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วัฒนา  บุญกอ",
+          "created_at": "2025-02-18 15:27:36",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190125/1739867256_e8a8ef6a25f4ac1611dc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190126",
+      "name": "บ้านน้ำก่ำ (สิทธิผลนุกูล)",
+      "row_num": 72,
+      "orders": [
+        {
+          "id": "23398",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา(ปพ.3)ปีการศึกษา2567",
+          "upload_user": "ชยังกูร ไชยพันธุ์",
+          "created_at": "2025-04-04 15:41:59",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190126/1743756114_10da4b955608830a3e80.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190127",
+      "name": "บ้านนาคำ",
+      "row_num": 73,
+      "orders": [
+        {
+          "id": "51056",
+          "description": "เรื่อง แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน 2569",
+          "upload_user": "วิรุวี สิงห์เชื้อ",
+          "created_at": "2026-03-04 15:12:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190127/1772611828_8f9fdf2aeb8ecd3fa721.pdf"
+        },
+        {
+          "id": "28629",
+          "description": "เรื่องแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ",
+          "upload_user": " ",
+          "created_at": "2025-04-08 09:37:35",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190127/1744079849_48cdefdece4c37e8b248.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190128",
+      "name": "บ้านคับพวง",
+      "row_num": 74,
+      "orders": [
+        {
+          "id": "28467",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "สุกัลยา มาดี",
+          "created_at": "2025-04-08 02:06:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190128/1744052804_ea7cfab7695bfd5cb1cc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190129",
+      "name": "บ้านทรายมูลคำผักแพว",
+      "row_num": 75,
+      "orders": [
+        {
+          "id": "72260",
+          "description": "คำสั่งคณะกรรมการ รร.บ้านทรายมูลคำผักแพว",
+          "upload_user": "ปารณีย์ สมนาแซง",
+          "created_at": "2026-04-06 10:23:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190129/1775445812_80a6bafc2314b5d9f61a.pdf"
+        },
+        {
+          "id": "44294",
+          "description": "แต่งตัั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ศิรินภา นามจันทร์",
+          "created_at": "2025-04-25 11:11:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190129/1745554307_b26e164796597dbd3c73.pdf"
+        },
+        {
+          "id": "41689",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ศิรินภา นามจันทร์",
+          "created_at": "2025-04-20 10:37:15",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190129/1745120229_9f180929b1a70a3c95d7.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190130",
+      "name": "บ้านทู้(สามัคคีวิทยา)",
+      "row_num": 76,
+      "orders": [
+        {
+          "id": "48838",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "เมธินี ศรีเสน",
+          "created_at": "2025-11-29 13:38:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190130/1764398230_8600071f1c8af92e204c.pdf"
+        },
+        {
+          "id": "47709",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน เลขที่๔๕ / ๒๕๖๘",
+          "upload_user": "นางสาวรพีพร ต้นเงิน",
+          "created_at": "2025-06-04 10:16:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190130/1749006963_ba7a2b5877a20a219814.pdf"
+        },
+        {
+          "id": "2900",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน เลขที่๑๖๖ / ๒๕๖๗",
+          "upload_user": "นางสาวรพีพร ต้นเงิน",
+          "created_at": "2025-01-06 14:05:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190130/1736147134_35021e2f5d6e0cd1d285.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190131",
+      "name": "บ้านแก่งโพธิ์",
+      "row_num": 77,
+      "orders": [
+        {
+          "id": "45540",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "สกุลรัตน์ พ่อธานี",
+          "created_at": "2025-04-29 15:24:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190131/1745915074_70289afd81cb50106703.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190132",
+      "name": "บ้านดอนข้าวหลาม",
+      "row_num": 78,
+      "orders": [
+        {
+          "id": "63085",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "ภาพินี ศรีประภา",
+          "created_at": "2026-03-30 14:37:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190132/1774856141_a5a7241ac36bb0e2669c.pdf"
+        },
+        {
+          "id": "22012",
+          "description": "โรงเรียนบ้านดอนข้าวหลาม",
+          "upload_user": "ภาพินี ศรีประภา",
+          "created_at": "2025-04-04 11:52:41",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190132/1743742356_bb22b933211214495097.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190133",
+      "name": "บ้านชาติพัฒนาสันติสุข",
+      "row_num": 79,
+      "orders": [
+        {
+          "id": "67823",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "สุพรรณษา แสงสุวรรณ",
+          "created_at": "2026-04-01 17:37:18",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190133/1775039735_540380f6be534dcb2d92.pdf"
+        },
+        {
+          "id": "44795",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการ",
+          "upload_user": "สุพรรณษา แสงสุวรรณ",
+          "created_at": "2025-04-28 08:46:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190133/1745804795_d545f93f923e1b862b2e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190134",
+      "name": "บ้านต้อง(ศรีบัวบานวิทยาคาร)",
+      "row_num": 80,
+      "orders": [
+        {
+          "id": "60612",
+          "description": "คำสั่งคณะกรรมการปพ.3ออนไลน์",
+          "upload_user": "นารีรัตน์ ศรีสุข",
+          "created_at": "2026-03-27 11:56:18",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190134/1774587276_2d08b78ef2703c3d4db6.pdf"
+        },
+        {
+          "id": "23930",
+          "description": "แต่งตั้งคณะกรรมการวิชาการปพ.3 ออนไลน์",
+          "upload_user": "นารีรัตน์ ศรีสุข",
+          "created_at": "2025-04-04 18:13:53",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190134/1743765228_c7a66381dd7aed0895b5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190135",
+      "name": "บ้านฝั่งแดง (พระเทพวรมุนีอุปถัมภ์)",
+      "row_num": 81,
+      "orders": [
+        {
+          "id": "49609",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ",
+          "upload_user": "ก่อกุศล อินธิแสน",
+          "created_at": "2026-02-06 16:32:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190135/1770370266_fc69bd7af6aff05e86e6.pdf"
+        },
+        {
+          "id": "8339",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการดำเนินงาน ปพ.3",
+          "upload_user": "ศิริพร พลมาตย์",
+          "created_at": "2025-03-17 16:16:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190135/1742202989_a4a7b00dc8c5a961a403.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190136",
+      "name": "บ้านขอนกองโพนทอง",
+      "row_num": 82,
+      "orders": [
+        {
+          "id": "72620",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการ ปพ.3",
+          "upload_user": "พัชรานุช บ้งชมโพธิ์",
+          "created_at": "2026-04-06 17:49:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190136/1775472561_935092c603b564772524.pdf"
+        },
+        {
+          "id": "17204",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา ๒๕๖๗",
+          "upload_user": " ",
+          "created_at": "2025-04-03 08:34:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190136/1743644087_897a488c20bfec2adb41.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190137",
+      "name": "บ้านนาหนาด",
+      "row_num": 83,
+      "orders": [
+        {
+          "id": "48956",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา",
+          "upload_user": "เพ็ญศรี   อรรคศรีวร",
+          "created_at": "2026-01-07 11:37:01",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190137/1767760540_c9708a2bfdb76b91ecbc.pdf"
+        },
+        {
+          "id": "20090",
+          "description": "เรื่อง แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "เพ็ญศรี   อรรคศรีวร",
+          "created_at": "2025-04-03 16:46:49",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190137/1743673604_0321d3c10ada3e9b6686.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190138",
+      "name": "บ้านคำชะอี",
+      "row_num": 84,
+      "orders": [
+        {
+          "id": "50320",
+          "description": "นายสุชาติ แสนสุภา",
+          "upload_user": "ชาลี พูนเทกอง",
+          "created_at": "2026-02-22 15:34:49",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190138/1771749196_f213112586ba404a4641.pdf"
+        },
+        {
+          "id": "21104",
+          "description": "คำสั่งคณะกรรมการวิชา",
+          "upload_user": "ชาลี พูนเทกอง",
+          "created_at": "2025-04-03 23:05:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190138/1743696316_9ef090bb62b003db74b5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190139",
+      "name": "บ้านโปร่งหนองเปงใหม่จำปา",
+      "row_num": 85,
+      "orders": [
+        {
+          "id": "65202",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านโปร่งหนองเปงใหม่จำปา",
+          "upload_user": "มินตรารัก พามาสุทธิภัทร",
+          "created_at": "2026-03-31 14:20:55",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190139/1774941552_47dec369a6664101f042.pdf"
+        },
+        {
+          "id": "36176",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านโปร่งหนองเปงใหม่จำปา",
+          "upload_user": " ",
+          "created_at": "2025-04-11 10:48:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190139/1744343289_554db4c9f254bb1c3189.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190140",
+      "name": "อุ่มเหม้าวิทยาคาร",
+      "row_num": 86,
+      "orders": [
+        {
+          "id": "21329",
+          "description": "คำสั่ง วิชาการ",
+          "upload_user": "เทอดพระเกียรติ ศิริบุญ",
+          "created_at": "2025-04-04 09:22:08",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190140/1743733324_14a8b2586587b8534b88.pdf"
+        },
+        {
+          "id": "15399",
+          "description": "คำสั่ง วิชาการ",
+          "upload_user": "ไพรัตน์ คำมุงคุณ",
+          "created_at": "2025-04-02 09:46:38",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190140/1743561998_60989054bcea0b3a37bc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190141",
+      "name": "บ้านขอนขว้าง",
+      "row_num": 87,
+      "orders": [
+        {
+          "id": "63711",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วุฒิชัย พิละมาตย์",
+          "created_at": "2026-03-30 22:46:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190141/1774885467_e869ab04b33285d70945.pdf"
+        },
+        {
+          "id": "21478",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วุฒิชัย พิละมาตย์",
+          "created_at": "2025-04-04 10:00:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190141/1743735645_1cbc69b7007a1e9304a2.pdf"
+        },
+        {
+          "id": "16337",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วุฒิชัย พิละมาตย์",
+          "created_at": "2025-04-02 14:46:48",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190141/1743580008_8357dca360fc4b237b61.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190142",
+      "name": "บ้านดอนสวรรค์",
+      "row_num": 88,
+      "orders": [
+        {
+          "id": "41723",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ธนภัทร ราชวัตร",
+          "created_at": "2025-04-20 12:18:30",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190142/1745126304_1ac8aa4432f59073d67d.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190143",
+      "name": "บ้านโสกแมว",
+      "row_num": 89,
+      "orders": [
+        {
+          "id": "67966",
+          "description": "8/2569",
+          "upload_user": "นภารัตน์ นามทองใบ",
+          "created_at": "2026-04-01 20:33:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190143/1775050310_4f1ef1e89d30a981d74f.pdf"
+        },
+        {
+          "id": "45286",
+          "description": "10/2568",
+          "upload_user": "นภารัตน์ นามทองใบ",
+          "created_at": "2025-04-29 09:46:11",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190143/1745894763_51cbff661bb18f3dff1e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190144",
+      "name": "บ้านแสนพันหมันหย่อน",
+      "row_num": 90,
+      "orders": [
+        {
+          "id": "10606",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "สุปรียา ไตรยะขันธ์",
+          "created_at": "2025-03-27 18:12:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190144/1743073974_5453d9759430d559ca18.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190145",
+      "name": "บ้านสร้างแห่",
+      "row_num": 91,
+      "orders": [
+        {
+          "id": "62479",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "รัตนา ศรีสวัสดิ์",
+          "created_at": "2026-03-30 11:33:36",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190145/1774845114_06a035099a48ede153fe.pdf"
+        },
+        {
+          "id": "23664",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "รัตนา ศรีสวัสดิ์",
+          "created_at": "2025-04-04 16:36:26",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190145/1743759381_360f8eed319e7d5ccec9.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190146",
+      "name": "บ้านกุดฉิม",
+      "row_num": 92,
+      "orders": [
+        {
+          "id": "50658",
+          "description": "คำสั่ง ปพ.3  รร.บ้านกุดฉิม",
+          "upload_user": "ฉัตรแก้ว ไชยคราม",
+          "created_at": "2026-02-26 09:04:49",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190146/1772071395_e88841e77e11e170f680.pdf"
+        },
+        {
+          "id": "40883",
+          "description": "คำสั่ง ปพ.3  รร.บ้านกุดฉิม",
+          "upload_user": "ฉัตรแก้ว ไชยคราม",
+          "created_at": "2025-04-18 11:35:19",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190146/1744950913_fe83b19ebd9b83dec1d1.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190148",
+      "name": "บ้านดอนนางหงส์(หงส์ทองวิทยาคาร)",
+      "row_num": 93,
+      "orders": [
+        {
+          "id": "52272",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา",
+          "upload_user": "ทนงฤทธิ์   วงศ์ตาผา",
+          "created_at": "2026-03-12 15:00:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190148/1773302306_bd0057516bfdb8901adb.pdf"
+        },
+        {
+          "id": "33140",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา",
+          "upload_user": "ทนงฤทธิ์   วงศ์ตาผา",
+          "created_at": "2025-04-09 15:43:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190148/1744188195_68c17e6c7006b2767677.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190149",
+      "name": "ดอนนางหงส์บูรพาสงเคราะห์",
+      "row_num": 94,
+      "orders": [
+        {
+          "id": "57816",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ปพ.3 ปีการศึกษา 2568",
+          "upload_user": "เจนจิรา ระพันธ์คำ",
+          "created_at": "2026-03-24 14:41:53",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190149/1774338012_4b8e24de7957d5610a84.pdf"
+        },
+        {
+          "id": "33467",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ปพ.3 ",
+          "upload_user": "เจนจิรา ระพันธ์คำ",
+          "created_at": "2025-04-09 18:47:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190149/1744199228_f4be839e0dc6ec2ef031.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190150",
+      "name": "บ้านหนองหญ้าม้า",
+      "row_num": 95,
+      "orders": [
+        {
+          "id": "50927",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ ปีการศึกษา2568",
+          "upload_user": "นัฏทรียา เภาโพธิ์",
+          "created_at": "2026-03-03 15:19:53",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190150/1772525897_8194eb0c8325063c3cda.pdf"
+        },
+        {
+          "id": "16941",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "นัฏทรียา เภาโพธิ์",
+          "created_at": "2025-04-02 22:23:11",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190150/1743607386_72be70b6608b0218c59c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190151",
+      "name": "บ้านหนองสะโน",
+      "row_num": 96,
+      "orders": [
+        {
+          "id": "65683",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ตรีนรินทร์ บุญทัน",
+          "created_at": "2026-03-31 16:05:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190151/1774947844_1f625cb3df2b4ad7a0c1.pdf"
+        },
+        {
+          "id": "31101",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ตรีนรินทร์ บุญทัน",
+          "created_at": "2025-04-08 19:26:22",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190151/1744115175_23b53ecdbd447743a722.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190152",
+      "name": "บ้านนาแกบึงเหล็ก",
+      "row_num": 97,
+      "orders": [
+        {
+          "id": "25109",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารหลักฐานทางการศึกษา",
+          "upload_user": "พัชรินทร์ พิมพา",
+          "created_at": "2025-04-05 13:14:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190152/1743833644_34ed62c2508f7f0b848c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190153",
+      "name": "บ้านโคกสว่าง(เรืองศิษย์วิทยาฯ)",
+      "row_num": 98,
+      "orders": [
+        {
+          "id": "46819",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน คส 67",
+          "upload_user": "วิระศักดิ์ ศิริสานต์",
+          "created_at": "2025-05-13 13:19:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190153/1747117153_46f738b9cf92bc50f560.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190154",
+      "name": "นาถ่อนวิทยานุกูล",
+      "row_num": 99,
+      "orders": [
+        {
+          "id": "53403",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการโรงเรียนนาถ่อนวิทยานุกูล",
+          "upload_user": "คุณากรณ์  สุขมอญ",
+          "created_at": "2026-03-16 15:03:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190154/1773648102_65ee721247020a32dece.pdf"
+        },
+        {
+          "id": "18213",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการโรงเรียนนาถ่อนวิทยานุกูล",
+          "upload_user": "คุณากรณ์  สุขมอญ",
+          "created_at": "2025-04-03 11:25:35",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190154/1743654330_65640b7a96b9422a0567.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190155",
+      "name": "นาถ่อนท่าวิทยาคาร",
+      "row_num": 100,
+      "orders": [
+        {
+          "id": "50542",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "สุพรรษา ยะแสง",
+          "created_at": "2026-02-24 14:17:13",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190155/1771917339_45113fca01e075ca00ce.pdf"
+        },
+        {
+          "id": "25415",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3) ปีการศึกษา ๒๕๖๗",
+          "upload_user": "สุพรรษา ยะแสง",
+          "created_at": "2025-04-05 15:49:05",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190155/1743842939_b151a9d1d1edc4eb0027.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190156",
+      "name": "บ้านดงยอ",
+      "row_num": 101,
+      "orders": [
+        {
+          "id": "62682",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการผู้ดำเนินการ ปพ3",
+          "upload_user": "พัชรินทร์  เข็มปัญญา",
+          "created_at": "2026-03-30 12:39:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190156/1774849066_b3816d661b8a61161c2e.pdf"
+        },
+        {
+          "id": "20904",
+          "description": "คำสั่งเรื่อง  แต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์ รร.บ้านดงยอ",
+          "upload_user": "พัชรินทร์  เข็มปัญญา",
+          "created_at": "2025-04-03 21:16:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190156/1743689766_48d72a8a6e0a48f53483.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190157",
+      "name": "บ้านโพนบกหัวขัววิทยาคาร",
+      "row_num": 102,
+      "orders": [
+        {
+          "id": "51186",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.๓ : ป) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "วรุตม์ คนซื่อ",
+          "created_at": "2026-03-05 14:33:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190157/1772695917_1125641ccbb5e5bfa215.pdf"
+        },
+        {
+          "id": "14641",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "วรุตม์ คนซื่อ",
+          "created_at": "2025-04-01 17:42:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190157/1743504134_48840ccf9d8dac5be5be.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190159",
+      "name": "บ้านดงป่ายูง",
+      "row_num": 103,
+      "orders": [
+        {
+          "id": "56670",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ-ปพ3-ออนไลน์โรงเรียนบ้านดงป่ายูง",
+          "upload_user": "จินดาพร วงค์ศรีชา",
+          "created_at": "2026-03-23 11:22:59",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190159/1774239678_cf6c8d1b6bd6f127ccae.pdf"
+        },
+        {
+          "id": "35731",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ-ปพ3-ออนไลน์โรงเรียนบ้านดงป่ายูง",
+          "upload_user": "จินดาพร วงค์ศรีชา",
+          "created_at": "2025-04-10 21:42:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190159/1744296164_47f6df710a39d9c45b74.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190160",
+      "name": "บ้านโพนแพง",
+      "row_num": 104,
+      "orders": [
+        {
+          "id": "60067",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "รุ้งลาวัลย์ แสนเขื่อน",
+          "created_at": "2026-03-26 16:37:26",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190160/1774517744_c8b9ff93be7baf8349a3.pdf"
+        },
+        {
+          "id": "43511",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "รุ้งลาวัลย์ แสนเขื่อน",
+          "created_at": "2025-04-23 14:40:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190160/1745394033_a9ff23daeebb4c6211e2.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190161",
+      "name": "บ้านห้วยทราย",
+      "row_num": 105,
+      "orders": [
+        {
+          "id": "59583",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.3)",
+          "upload_user": "พิลาวัลย์   โพธิสอน",
+          "created_at": "2026-03-26 12:59:06",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190161/1774504644_9e085509649af0318eac.pdf"
+        },
+        {
+          "id": "23604",
+          "description": "แต่งตั้งกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.3 )",
+          "upload_user": " ",
+          "created_at": "2025-04-04 16:22:35",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190161/1743758550_8ce3e06539d1bc488e35.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190162",
+      "name": "บ้านตาลกุดยางเดี่ยวโนนสมบูรณ์",
+      "row_num": 106,
+      "orders": [
+        {
+          "id": "49018",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "รวิวรรณ พึ่งบุญไพศาล",
+          "created_at": "2026-01-14 19:10:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190162/1768392572_8aa3873370540deead88.pdf"
+        },
+        {
+          "id": "3651",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน   ",
+          "upload_user": "นางศิริลักษณ์ วังทะพันธ์",
+          "created_at": "2025-01-22 14:44:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190162/1737531843_540dd6eafe50fc922fee.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190163",
+      "name": "อนุบาลนาแกผดุงราชกิจเจริญ",
+      "row_num": 107,
+      "orders": [
+        {
+          "id": "68748",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "นิภาภัทร์ ธงยศ",
+          "created_at": "2026-04-02 11:49:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190163/1775105290_fc101eaaa27272e3253f.pdf"
+        },
+        {
+          "id": "26072",
+          "description": "เรื่อง  แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "นิภาภัทร์ ธงยศ",
+          "created_at": "2025-04-06 10:13:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190163/1743909215_26ec42eab9e9674658d1.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190164",
+      "name": "บ้านโคกกลางแก้งน้อย(กัลยาโนอุปถัมภ์)",
+      "row_num": 108,
+      "orders": [
+        {
+          "id": "37930",
+          "description": "เรื่อง  แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "วิสุชาธิดา เครือสุวรรณ",
+          "created_at": "2025-04-12 20:15:42",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190164/1744463738_fc0975cda0d0adfd5af8.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190165",
+      "name": "ต้นแหนสร้างติ่ววิทยานุกูล",
+      "row_num": 109,
+      "orders": [
+        {
+          "id": "49015",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "เบญจวรรณ พ่อเพียโคตร",
+          "created_at": "2026-01-14 15:12:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190165/1768378278_801b09fe96e5f84d9d95.pdf"
+        },
+        {
+          "id": "19370",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง                  การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "เบญจวรรณ พ่อเพียโคตร",
+          "created_at": "2025-04-03 15:04:28",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190165/1743667463_5842aa259aa59580e353.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190166",
+      "name": "บ้านนาป่งคอง",
+      "row_num": 110,
+      "orders": [
+        {
+          "id": "51517",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา(ปพ.3)",
+          "upload_user": "ขวัญเรือน คำมุงคุณ",
+          "created_at": "2026-03-09 14:32:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190166/1773041477_d380a4c3112d5665fd7e.pdf"
+        },
+        {
+          "id": "17946",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา(ปพ.3)",
+          "upload_user": "ณัฐวุฒิ เชื้อดวงผูย",
+          "created_at": "2025-04-03 10:56:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190166/1743652595_97f7f9cde6e6243018b7.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190167",
+      "name": "บ้านนาแกน้อย (นทพ.อุปถัมภ์)",
+      "row_num": 111,
+      "orders": [
+        {
+          "id": "61853",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ชิตชนก ธรรมบุตร",
+          "created_at": "2026-03-29 16:31:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190167/1774776583_4ca0636c742c769406e7.pdf"
+        },
+        {
+          "id": "61852",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ชิตชนก ธรรมบุตร",
+          "created_at": "2026-03-29 16:31:06",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190167/1774776564_1d673ddbdfd0bb35050a.pdf"
+        },
+        {
+          "id": "13399",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ชิตชนก ธรรมบุตร",
+          "created_at": "2025-03-31 20:44:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190167/1743428649_4a22637cae34ce6ba6fe.pdf"
+        },
+        {
+          "id": "13161",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ชิตชนก ธรรมบุตร",
+          "created_at": "2025-03-31 18:27:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190167/1743420467_3f3d163f6d718786f8db.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190168",
+      "name": "บ้านแก้งสีลารมณ์สามัคคี",
+      "row_num": 112,
+      "orders": [
+        {
+          "id": "60092",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "วาสนา สุสินนะ",
+          "created_at": "2026-03-26 16:59:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190168/1774519060_f4adfca742654a46e43e.pdf"
+        },
+        {
+          "id": "30468",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "วาสนา สุสินนะ",
+          "created_at": "2025-04-08 15:26:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190168/1744100786_63ded9dd879dce03b90b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190169",
+      "name": "บ้านโพธิ์ศรี",
+      "row_num": 113,
+      "orders": [
+        {
+          "id": "41218",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "กมลวรรณ จันทร์ชนะ",
+          "created_at": "2025-04-18 16:06:12",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190169/1744967166_4fb3189670302af97288.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190170",
+      "name": "บ้านนาโสก",
+      "row_num": 114,
+      "orders": [
+        {
+          "id": "28922",
+          "description": "แต่งตั้งคณะกรรมกำรดำเนินกำรจัดทำแบบรำยงำนผู้สำเร็จกำรศึกษำตำมหลักสูตรแกนกลำง กำรศึกษำขั้นพื้นฐำน ระดับประถมศึกษำ (ปพ.3 : ป) ปีกำรศึกษำ 2567",
+          "upload_user": "เฉลิมศรี ธวันทา",
+          "created_at": "2025-04-08 10:46:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190170/1744083978_d5b47f530d68e9c5271a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190171",
+      "name": "บ้านนาทุ่งมั่ง",
+      "row_num": 115,
+      "orders": [
+        {
+          "id": "69096",
+          "description": "คำสั่ง แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นัทมล มิ่งคำ",
+          "created_at": "2026-04-02 13:46:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190171/1775112272_d9fc24995f7404bab107.pdf"
+        },
+        {
+          "id": "39759",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": " ",
+          "created_at": "2025-04-16 15:51:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190171/1744793475_7565aaa06512ae12ce49.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190172",
+      "name": "ชุมชนบ้านพิมาน",
+      "row_num": 116,
+      "orders": [
+        {
+          "id": "58597",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "จิราวรรณ เปียขุนทด",
+          "created_at": "2026-03-25 12:43:27",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190172/1774417305_f9fbfc161c844fb05ce4.pdf"
+        },
+        {
+          "id": "18396",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ปีการศึกษา 2567",
+          "upload_user": "จิราวรรณ เปียขุนทด",
+          "created_at": "2025-04-03 11:46:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190172/1743655589_fa144cada082fdc1a49c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190173",
+      "name": "บ้านพิมานท่า",
+      "row_num": 117,
+      "orders": [
+        {
+          "id": "70523",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ภาณิตา ศรีชาหลวง",
+          "created_at": "2026-04-03 12:37:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190173/1775194672_b4c28b8166a83dd90680.pdf"
+        },
+        {
+          "id": "40955",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ภาณิตา ศรีชาหลวง",
+          "created_at": "2025-04-18 12:19:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190173/1744953543_23d078ef459335b5d7ba.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190174",
+      "name": "บ้านหนองหญ้าปล้องขัวสูง",
+      "row_num": 118,
+      "orders": [
+        {
+          "id": "51418",
+          "description": "คำสั่งเรื่อง  แต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์",
+          "upload_user": "นัฐพล พันโน",
+          "created_at": "2026-03-09 10:27:58",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190174/1773026781_15dd00f88201bdcaaebc.pdf"
+        },
+        {
+          "id": "20764",
+          "description": "คำสั่งเรื่อง  แต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์",
+          "upload_user": "นัฐพล พันโน",
+          "created_at": "2025-04-03 20:32:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190174/1743687131_84517ad93c6788d59a24.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190175",
+      "name": "บ้านเหล่าทุ่ง",
+      "row_num": 119,
+      "orders": [
+        {
+          "id": "25452",
+          "description": "คำสั่งโรงเรียนบ้านเหล่าทุ่ง",
+          "upload_user": "สันทนา วงค์แสงน้อย",
+          "created_at": "2025-04-05 16:10:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190175/1743844198_846dbb78299550767876.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190176",
+      "name": "บ้านสีชมพูมิตรภาพที่ 164",
+      "row_num": 120,
+      "orders": [
+        {
+          "id": "71275",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "ศยามล บัวชุม",
+          "created_at": "2026-04-03 23:13:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190176/1775232820_5f36228d3f3729d418b4.pdf"
+        },
+        {
+          "id": "23861",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ศยามล บัวชุม",
+          "created_at": "2025-04-04 17:34:13",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190176/1743762848_2c0440da006e38488418.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190177",
+      "name": "บ้านดงน้อยพัฒนา",
+      "row_num": 121,
+      "orders": [
+        {
+          "id": "17173",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "เดือนรุ้ง ศรีจันทร์",
+          "created_at": "2025-04-03 08:20:05",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190177/1743643200_e4e750da917fa4933ee5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190178",
+      "name": "บ้านจอมมณี",
+      "row_num": 122,
+      "orders": [
+        {
+          "id": "50573",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ ปพ.3 ออนไลน์ ",
+          "upload_user": "สุพัตรา สุวรรณพฤกษ์",
+          "created_at": "2026-02-24 16:03:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190178/1771923724_aa86f7a1d1f810c2928e.pdf"
+        },
+        {
+          "id": "13939",
+          "description": "แต่งตั้งคณะกรรมการวิชาการ ปพ.3 ออนไลน์",
+          "upload_user": "ชัยวัฒน์ ชาเรืองเดช",
+          "created_at": "2025-04-01 11:29:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190178/1743481777_fd44bd47e707aff22277.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190179",
+      "name": "บ้านปากบัง",
+      "row_num": 123,
+      "orders": [
+        {
+          "id": "54776",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารหลักฐานระเบียนแสดงผลการเรียน(ปพ.๑)  และแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ",
+          "upload_user": "ปาริชาติ ไชยต้นเทือก",
+          "created_at": "2026-03-18 15:03:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190179/1773820931_b2c62d26304ea8060750.pdf"
+        },
+        {
+          "id": "21244",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารหลักฐานระเบียนแสดงผลการเรียน(ปพ.๑)  และแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา ๒๕๖๗",
+          "upload_user": "ปาริชาติ ไชยต้นเทือก",
+          "created_at": "2025-04-04 08:46:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190179/1743731158_1c00164545a7cf7b79e5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190180",
+      "name": "ธารน้ำใจ",
+      "row_num": 124,
+      "orders": [
+        {
+          "id": "8884",
+          "description": "คำสั่งโรงเรียนธารน้ำใจ",
+          "upload_user": "วรรณวิภา คำซาว",
+          "created_at": "2025-03-20 10:25:07",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190180/1742441107_85a1fad4a2c0e741184c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190181",
+      "name": "ชุมชนบ้านพุ่มแก",
+      "row_num": 125,
+      "orders": [
+        {
+          "id": "52372",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการ ปพ.3 ออนไลน์ ปีการศึกษา 2568",
+          "upload_user": "ณัฐพงษ์ อุ่นชัย",
+          "created_at": "2026-03-13 07:52:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190181/1773363047_56486205e2f1b1d92d45.pdf"
+        },
+        {
+          "id": "20593",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการ ปพ.3 ออนไลน์",
+          "upload_user": "ณัฐพงษ์ อุ่นชัย",
+          "created_at": "2025-04-03 19:22:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190181/1743682932_66de47edc07a5ade193e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190182",
+      "name": "บ้านหนองหอยใหญ่",
+      "row_num": 126,
+      "orders": [
+        {
+          "id": "72855",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "อภิชาติ ดอนลาดพันธ์",
+          "created_at": "2026-04-07 10:34:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190182/1775532864_9b96ff6d9d766227e99c.pdf"
+        },
+        {
+          "id": "19797",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "อภิชาติ ดอนลาดพันธ์",
+          "created_at": "2025-04-03 15:58:30",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190182/1743670706_0c92c4ba0b5dd60f21e3.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190183",
+      "name": "บ้านนางเลิศ",
+      "row_num": 127,
+      "orders": [
+        {
+          "id": "45313",
+          "description": "คำสั่งเรื่อง-แต่งตั้งคณะกรรมการวิชาการ-ปพ3-ออนไลน์",
+          "upload_user": "ทวีวรรณ เคนนาดี",
+          "created_at": "2025-04-29 10:35:42",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190183/1745897733_677c4f2375ae194aca0b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190184",
+      "name": "บ้านตับเต่าโนนจันทร์",
+      "row_num": 128,
+      "orders": [
+        {
+          "id": "62689",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงาน ปพ.3 ปีการศึกษา 2568",
+          "upload_user": "ขนิษฐา วงศ์สุขะ",
+          "created_at": "2026-03-30 12:41:18",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190184/1774849175_9fcb467e587c6fde506a.pdf"
+        },
+        {
+          "id": "20633",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ขนิษฐา วงศ์สุขะ",
+          "created_at": "2025-04-03 19:39:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190184/1743683975_e6a88bb045db526ad3f5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190185",
+      "name": "บ้านโพนดู่โคกสวัสดิ์",
+      "row_num": 129,
+      "orders": [
+        {
+          "id": "18434",
+          "description": "คำสั่งบ้านโพนดู่โคกสวัสดิ์",
+          "upload_user": "ทิพย์ธิดา สีกาลัง",
+          "created_at": "2025-04-03 11:50:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190185/1743655829_b0eb3b18c066eb3d569f.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190186",
+      "name": "บ้านหนองกุง ฮินดูสมาช",
+      "row_num": 130,
+      "orders": [
+        {
+          "id": "51226",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ตวงรัตน์ หอมสมบัติ",
+          "created_at": "2026-03-06 08:47:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190186/1772761576_a3b0c544e394a29dc186.pdf"
+        },
+        {
+          "id": "49442",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ตวงรัตน์ หอมสมบัติ",
+          "created_at": "2026-02-03 14:51:18",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190186/1770104990_59a8511b21e6a7f737fc.pdf"
+        },
+        {
+          "id": "14960",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ตวงรัตน์ หอมสมบัติ",
+          "created_at": "2025-04-01 20:48:13",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190186/1743515293_bcfafb7c3f7f7ebf0122.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190187",
+      "name": "บ้านนาคู่",
+      "row_num": 131,
+      "orders": [
+        {
+          "id": "48986",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน(แก้ไข)",
+          "upload_user": "นางมุกดาวรรณ ผาเจริญ",
+          "created_at": "2026-01-13 15:02:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190187/1768291248_af44ef97e5d4e8c4c987.pdf"
+        },
+        {
+          "id": "782",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นางมุกดาวรรณ ผาเจริญ",
+          "created_at": "2024-11-27 16:34:49",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190187/1732700089_ba14fe13f91095dc557c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190188",
+      "name": "บ้านหนองหอยคำอ้อม",
+      "row_num": 132,
+      "orders": [
+        {
+          "id": "40809",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "เพชราภรณ์ หอมสร้อย",
+          "created_at": "2025-04-18 10:46:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190188/1744947975_8047e5be17d6793ecbdc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190189",
+      "name": "บ้านแขนนาง",
+      "row_num": 133,
+      "orders": [
+        {
+          "id": "45383",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "เข็มชาติ วงศ์ศรีชา",
+          "created_at": "2025-04-29 11:58:17",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190189/1745902688_4ddd710d9fc6a3b21488.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190190",
+      "name": "บ้านน้ำบ่อ",
+      "row_num": 134,
+      "orders": [
+        {
+          "id": "37326",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "เพียงพร วงศ์คำจันทร์",
+          "created_at": "2025-04-12 11:18:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190190/1744431497_058d0ca4ecd723d43aa3.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190192",
+      "name": "พระซองวิทยาคาร",
+      "row_num": 135,
+      "orders": [
+        {
+          "id": "61962",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "วรรณิตา เพลียพล",
+          "created_at": "2026-03-29 23:09:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190192/1774800478_0edb58c4ec64a0a5c9e4.pdf"
+        },
+        {
+          "id": "35313",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "วรรณิตา เพลียพล",
+          "created_at": "2025-04-10 16:07:48",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190192/1744276061_1b2ea0390a1c11387d68.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190193",
+      "name": "บ่อดอกซ้อนท่าวัด",
+      "row_num": 136,
+      "orders": [
+        {
+          "id": "61599",
+          "description": "คำสั่งเรื่อง แต่งตั้งคณะกรรมการวิชาการ-ปพ 3",
+          "upload_user": "สุพรรณิกา วงศ์ราชา",
+          "created_at": "2026-03-28 19:27:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190193/1774700774_ad1ff1dc3a66d65e8970.pdf"
+        },
+        {
+          "id": "16676",
+          "description": "คำสั่งโรงเรียนบ่อดอกซ้อนท่าวัด",
+          "upload_user": "สุพรรณิกา วงศ์ราชา",
+          "created_at": "2025-04-02 16:44:28",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190193/1743587068_7df66e561037ef657759.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190194",
+      "name": "บ้านพระซองเหนือ",
+      "row_num": 137,
+      "orders": [
+        {
+          "id": "69084",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการดำเนินการจัดทำ ปพ.3 โรงเรียนบ้านพระซองเหนือ",
+          "upload_user": "ธีระวุฒิ วงค์ตาผา",
+          "created_at": "2026-04-02 13:41:55",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190194/1775112011_ebcabbf6e63e54047751.pdf"
+        },
+        {
+          "id": "33288",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการดำเนินการจัดทำ ปพ.3",
+          "upload_user": "ธีระวุฒิ วงค์ตาผา",
+          "created_at": "2025-04-09 16:51:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190194/1744192285_5589e24eaac32347894e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190195",
+      "name": "นาเหนือทุ่งทองวิทยา",
+      "row_num": 138,
+      "orders": [
+        {
+          "id": "50338",
+          "description": "คำสั่งคณะกรรมการวิชาการ ปีการศึกษา 2568",
+          "upload_user": "อนันตพร กองแก้ว",
+          "created_at": "2026-02-23 09:56:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190195/1771815304_2323263e843319cd47bb.pdf"
+        },
+        {
+          "id": "20100",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการดำเนินการจัดทำ ปพ.3 ",
+          "upload_user": "อนันตพร กองแก้ว",
+          "created_at": "2025-04-03 16:49:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190195/1743673778_c86dac5c8d34d8523ec4.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190196",
+      "name": "ดงอินำสองคอนหนองกระบี่",
+      "row_num": 139,
+      "orders": [
+        {
+          "id": "50174",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "สุพิชชา ภูมิดาว",
+          "created_at": "2026-02-19 13:59:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190196/1771484273_b9818f930a959879d977.pdf"
+        },
+        {
+          "id": "17591",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "สุพิชชา ภูมิดาว",
+          "created_at": "2025-04-03 10:10:36",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190196/1743649832_4707bb096bd9186c1cdf.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190197",
+      "name": "บ้านหนองยอโพนแพง",
+      "row_num": 140,
+      "orders": [
+        {
+          "id": "58012",
+          "description": "แต่งตั้งคณะกรรมการวิชาการใหม่",
+          "upload_user": "รุ่งฤดี จิตมาตย์",
+          "created_at": "2026-03-24 16:14:17",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190197/1774343556_a1584c4da17d7ff45541.pdf"
+        },
+        {
+          "id": "20979",
+          "description": "คณะกรรมการวิชาการ",
+          "upload_user": "รุ่งฤดี จิตมาตย์",
+          "created_at": "2025-04-03 21:47:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190197/1743691631_fb776a21faefbe698be3.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190198",
+      "name": "บ้านนาเลียง",
+      "row_num": 141,
+      "orders": [
+        {
+          "id": "9295",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "อรุณวรรณ โสมชิน",
+          "created_at": "2025-03-22 18:27:08",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190198/1742642828_2c678dcc4387122bc9df.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190199",
+      "name": "บ้านหนองคอง",
+      "row_num": 142,
+      "orders": [
+        {
+          "id": "21017",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "พัชรินทร์ ลี้พล",
+          "created_at": "2025-04-03 22:01:01",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190199/1743692456_5481a8fda82592f36c3e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190200",
+      "name": "บ้านนามนดงติ้ววิทยา",
+      "row_num": 143,
+      "orders": [
+        {
+          "id": "51556",
+          "description": "คำสั่งคณะกรรมการวิชาการปีการศึกษา2568",
+          "upload_user": "กานต์ แสนคำ",
+          "created_at": "2026-03-09 15:58:27",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190200/1773046610_7a6c52a47b5e94e87729.pdf"
+        },
+        {
+          "id": "21035",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "กานต์ แสนคำ",
+          "created_at": "2025-04-03 22:09:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190200/1743692982_bc11c3e14077558a428a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190201",
+      "name": "นาฮุมอุดมสวรรค์สามัคคี",
+      "row_num": 144,
+      "orders": [
+        {
+          "id": "64907",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "อัยญดา หาญธงชัย",
+          "created_at": "2026-03-31 13:20:55",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190201/1774937952_9a367e85f2e222f63efc.pdf"
+        },
+        {
+          "id": "27391",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการดำเนินการจัดทำปพ.3",
+          "upload_user": "อัยญดา หาญธงชัย",
+          "created_at": "2025-04-07 11:37:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190201/1744000664_4f4a4de6c2cad2e078ff.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190202",
+      "name": "หนองสังข์ราษฎร์บำรุง",
+      "row_num": 145,
+      "orders": [
+        {
+          "id": "55807",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการ",
+          "upload_user": "วรรณรงค์ หารธงไชย",
+          "created_at": "2026-03-20 13:42:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190202/1773988834_1f75ba16b52d5238e75b.pdf"
+        },
+        {
+          "id": "8565",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วรรณรงค์ หารธงไชย",
+          "created_at": "2025-03-18 14:43:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190202/1742283783_ecb5605bd31ea11cd96a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190203",
+      "name": "บ้านคำเม็ก",
+      "row_num": 146,
+      "orders": [
+        {
+          "id": "21669",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "พารดา หาบ้านแท่น",
+          "created_at": "2025-04-04 10:35:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190203/1743737729_ab43bf52cea2cb1c5958.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190204",
+      "name": "บ้านหนองกุง",
+      "row_num": 147,
+      "orders": [
+        {
+          "id": "72473",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "วนิดา นามเกตุ",
+          "created_at": "2026-04-06 13:42:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190204/1775457774_922019e5c92b66f6b82f.pdf"
+        },
+        {
+          "id": "49542",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": " ",
+          "created_at": "2026-02-05 14:07:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190204/1770275189_ab7a99bd0fe989990175.pdf"
+        },
+        {
+          "id": "49434",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "สุภาวดี บุญถูก",
+          "created_at": "2026-02-03 14:31:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190204/1770103823_6f013fb401e6d8585a82.pdf"
+        },
+        {
+          "id": "36780",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "สุภาวดี บุญถูก",
+          "created_at": "2025-04-11 20:12:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190204/1744377125_0f3f8f97679741491fe3.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190205",
+      "name": "บ้านหนองห้าง",
+      "row_num": 148,
+      "orders": [
+        {
+          "id": "61467",
+          "description": "คำสั่งโรงเรียนบ้านหนองห้าง ที่ 8/2569 เรื่อง  แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "นางสุพัตรา พ่อชมภู",
+          "created_at": "2026-03-28 13:50:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190205/1774680551_c083ef6ce052c5727ac0.pdf"
+        },
+        {
+          "id": "26081",
+          "description": "คำสั่งคณะกรรมการวิชาการ ",
+          "upload_user": "นางสุพัตรา พ่อชมภู",
+          "created_at": "2025-04-06 10:24:00",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190205/1743909834_b831cf5434730b430be1.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190206",
+      "name": "บ้านหนองบ่อ",
+      "row_num": 149,
+      "orders": [
+        {
+          "id": "25502",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "ภัทรวาณี จันทะนาม",
+          "created_at": "2025-04-05 16:40:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190206/1743846045_b250f97cd210d0582b90.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190207",
+      "name": "บ้านดินดำหมากเฟือง",
+      "row_num": 150,
+      "orders": [
+        {
+          "id": "52242",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พนิดา ไชยเพ็ชร",
+          "created_at": "2026-03-12 14:35:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190207/1773300859_66f3acde427273ea5c8e.pdf"
+        },
+        {
+          "id": "40799",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พนิดา ไชยเพ็ชร",
+          "created_at": "2025-04-18 10:37:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190207/1744947436_3a6ffcd09818115d4963.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190208",
+      "name": "บ้านนากุงยางคำ",
+      "row_num": 151,
+      "orders": [
+        {
+          "id": "19573",
+          "description": "คำสั่ง แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "พีระพัฒน์ คำภูษา",
+          "created_at": "2025-04-03 15:29:53",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190208/1743668988_a1f5e2c91c5abf0263cf.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190209",
+      "name": "บ้านดงดู่งาม",
+      "row_num": 152,
+      "orders": [
+        {
+          "id": "71756",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ปพ3 ปีการศึกษา 2568",
+          "upload_user": "สุพรรษา ล่ำสัน",
+          "created_at": "2026-04-04 21:46:26",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190209/1775313986_19b2bae8a7448ca876d5.pdf"
+        },
+        {
+          "id": "41962",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "สุพรรษา ล่ำสัน",
+          "created_at": "2025-04-21 11:00:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190209/1745208004_7016233636809fe5530f.pdf"
+        },
+        {
+          "id": "16701",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ โรงเรียนบ้านดงดู่งาม",
+          "upload_user": " ",
+          "created_at": "2025-04-02 16:48:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190209/1743587313_48f7004da452c649cc43.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190210",
+      "name": "บ้านดอนโทน",
+      "row_num": 153,
+      "orders": [
+        {
+          "id": "26928",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": " ",
+          "created_at": "2025-04-06 22:10:33",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190210/1743952227_1aaf0ebbc6f42469666a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190211",
+      "name": "ศรีโพนทองวิทยา",
+      "row_num": 154,
+      "orders": [
+        {
+          "id": "51656",
+          "description": "แต่งตั้งคณะกรรมการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน (ปพ.3) ปีการศึกษา 2568",
+          "upload_user": "อรณภัค ธ.น.สำ",
+          "created_at": "2026-03-10 12:28:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190211/1773120426_425f12f7b49012aef250.pdf"
+        },
+        {
+          "id": "8191",
+          "description": "แต่งตั้งคณะกรรมการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน (ปพ.3) ปีการศึกษา 2567",
+          "upload_user": "นางสาวอรณภัค ธ.น.สำ",
+          "created_at": "2025-03-17 11:03:00",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190211/1742184180_fdd6165f7e2a38827839.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190212",
+      "name": "ดอนเหลืองทองวิทยา",
+      "row_num": 155,
+      "orders": [
+        {
+          "id": "41110",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ลลิตา วิมลรักษา",
+          "created_at": "2025-04-18 14:29:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190212/1744961349_680e876a44a8901cec77.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190213",
+      "name": "บ้านจำปา",
+      "row_num": 156,
+      "orders": [
+        {
+          "id": "49535",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนคณะกรรมการวิชาการ",
+          "upload_user": "เมธินี ขำวิทยโชติพันธ์ุ",
+          "created_at": "2026-02-05 13:34:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190213/1770273207_9513e4ab89d7c29016c8.pdf"
+        },
+        {
+          "id": "31547",
+          "description": "แต่งตั้งคณะกรรมการวิชาการ ปพ.3",
+          "upload_user": "กฤตติกา พิมทอง",
+          "created_at": "2025-04-09 09:22:19",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190213/1744165332_b28d0c266d3e67222482.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190214",
+      "name": "ไทยรัฐวิทยา 50 (บ้านคำพี้)",
+      "row_num": 157,
+      "orders": [
+        {
+          "id": "3481",
+          "description": "คำสั่งโรงเรียนไทยรัฐ",
+          "upload_user": "นางญาธิดา เสตถา",
+          "created_at": "2025-01-17 16:42:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190214/1737106924_595b918916eb95fe6b58.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190215",
+      "name": "นาผือบอนราษฎร์นุกูล",
+      "row_num": 158,
+      "orders": [
+        {
+          "id": "54677",
+          "description": "คำสั่งวิชาการ",
+          "upload_user": "เบญจวรรณ พองผลา",
+          "created_at": "2026-03-18 14:03:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190215/1773817327_2a39dce8c4fa0576db6c.pdf"
+        },
+        {
+          "id": "37091",
+          "description": "คำสั่งวิชาการ",
+          "upload_user": "เบญจวรรณ พองผลา",
+          "created_at": "2025-04-12 07:49:07",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190215/1744418943_79d349b8ae31ed32f136.pdf"
+        },
+        {
+          "id": "33367",
+          "description": "คำสั่งวิชาการ",
+          "upload_user": "เบญจวรรณ พองผลา",
+          "created_at": "2025-04-09 17:30:58",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190215/1744194651_075da1fc5563a1af01cd.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190216",
+      "name": "บ้านกลางมูลอ้น",
+      "row_num": 159,
+      "orders": [
+        {
+          "id": "27723",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3) ปีการศึกษา 2567",
+          "upload_user": "นางสาวน้ำทิพย์ ปีพิมพ์",
+          "created_at": "2025-04-07 14:00:48",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190216/1744009242_8e0da2e1011eba26aa98.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190271",
+      "name": "บ้านกุตาไก้",
+      "row_num": 160,
+      "orders": [
+        {
+          "id": "25833",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นงเยาว์ ปั๋นโด้",
+          "created_at": "2025-04-05 21:49:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190271/1743864538_3e3c334e0fb2e49f056f.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190272",
+      "name": "บ้านวังโพธิ์",
+      "row_num": 161,
+      "orders": [
+        {
+          "id": "49619",
+          "description": " แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ประจำปีการศึกษา ๒๕๖๗๘",
+          "upload_user": "อารียา บันหาร",
+          "created_at": "2026-02-08 19:47:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190272/1770554751_1482bd8abfbbb87f21f8.pdf"
+        },
+        {
+          "id": "29153",
+          "description": " แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ประจำปีการศึกษา ๒๕๖๗ ",
+          "upload_user": "อารียา บันหาร",
+          "created_at": "2025-04-08 11:24:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190272/1744086277_71a41dee42c8fdbb8948.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190273",
+      "name": "บ้านดอนดู่",
+      "row_num": 162,
+      "orders": [
+        {
+          "id": "46008",
+          "description": "คำสั่งคณะกรรมการวิชาการ(ทำปพ.๓ ออนไลน์)",
+          "upload_user": "ทองไสย์ พันธุโพธิ์",
+          "created_at": "2025-04-30 17:12:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190273/1746007965_bc2047072fba3d072b72.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190274",
+      "name": "บ้านโพนทา",
+      "row_num": 163,
+      "orders": [
+        {
+          "id": "49412",
+          "description": "คณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา(ปพ.3 : ป)",
+          "upload_user": "สุริยา สุขบุตร",
+          "created_at": "2026-02-03 11:18:08",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190274/1770092200_cd632b476009bcf50b5b.pdf"
+        },
+        {
+          "id": "43725",
+          "description": "คณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา(ปพ.3 : ป)",
+          "upload_user": " ",
+          "created_at": "2025-04-24 07:56:13",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190274/1745456166_ee6b5083110c9b625436.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190275",
+      "name": "บ้านนามะเขือ",
+      "row_num": 164,
+      "orders": [
+        {
+          "id": "49519",
+          "description": "คำสั่งโรงเรียนบ้านนามะเขือ เรื่องแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน แก้ไข",
+          "upload_user": "บุษบา เรือนเป็ง",
+          "created_at": "2026-02-05 09:22:11",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190275/1770258042_7b91059849f4d76ee3c7.pdf"
+        },
+        {
+          "id": "21802",
+          "description": "คำสั่งโรงเรียนบ้านนามะเขือ เรื่อง แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "บุษบา เรือนเป็ง",
+          "created_at": "2025-04-04 11:19:19",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190275/1743740354_da641cd81bb050a143fb.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190276",
+      "name": "บ้านหนองแสง",
+      "row_num": 165,
+      "orders": [
+        {
+          "id": "52271",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการ ปพ.3",
+          "upload_user": "ปรียานุช เพ็งชัย",
+          "created_at": "2026-03-12 14:59:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190276/1773302300_dd63dd2f578532706974.pdf"
+        },
+        {
+          "id": "18409",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "ปรียานุช เพ็งชัย",
+          "created_at": "2025-04-03 11:48:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190276/1743655684_ed7a3daadd6ee3de30ea.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190277",
+      "name": "บ้านนางาม",
+      "row_num": 166,
+      "orders": [
+        {
+          "id": "53160",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.๓ : ป) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "นานาพร นวลตา",
+          "created_at": "2026-03-16 11:44:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190277/1773636155_0fc8fbe51c0dad3953bd.pdf"
+        },
+        {
+          "id": "23406",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.๓ : ป) ปีการศึกษา ๒๕๖๗",
+          "upload_user": "นานาพร นวลตา",
+          "created_at": "2025-04-04 15:43:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190277/1743756218_15ca191750173379abe5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190278",
+      "name": "โพนสวางนางิ้ววิทยา",
+      "row_num": 167,
+      "orders": [
+        {
+          "id": "48878",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ปีการศึกษา 2568",
+          "upload_user": "กัลยรัตน์ ไกยะฝ่าย",
+          "created_at": "2025-12-09 10:30:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190278/1765250984_f9be4fb4f4adf4543638.pdf"
+        },
+        {
+          "id": "3417",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "กัลยรัตน์ ไกยะฝ่าย",
+          "created_at": "2025-01-16 16:58:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190278/1737021512_8b8a08e09ed44b528a49.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190279",
+      "name": "บ้านหนองบัวคำ",
+      "row_num": 168,
+      "orders": [
+        {
+          "id": "50913",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "สิรคุปต์ จอกทอง",
+          "created_at": "2026-03-02 20:55:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190279/1772459636_1f011272e0c5b6b0e587.pdf"
+        },
+        {
+          "id": "40792",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "สิรคุปต์ จอกทอง",
+          "created_at": "2025-04-18 10:28:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190279/1744946922_84876ca954103c2105cf.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190280",
+      "name": "บ้านมหาชัย",
+      "row_num": 169,
+      "orders": [
+        {
+          "id": "49398",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "วีระยา ไชยนาน",
+          "created_at": "2026-02-02 15:38:06",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190280/1770021399_9faa48642397ef238fc6.pdf"
+        },
+        {
+          "id": "30702",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "วีระยา ไชยนาน",
+          "created_at": "2025-04-08 16:16:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190280/1744103785_f5c35242af44fbb8fdb0.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190281",
+      "name": "บ้านทันสมัย",
+      "row_num": 170,
+      "orders": [
+        {
+          "id": "73946",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการดำเนินการจัดทำ ปพ.3 ออนไลน์",
+          "upload_user": "อรอนงค์ ศรีจันทร์",
+          "created_at": "2026-04-08 13:46:15",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190281/1775630775_f137e1954d81079b092e.pdf"
+        },
+        {
+          "id": "44346",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "อรอนงค์ ศรีจันทร์",
+          "created_at": "2025-04-25 12:20:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190281/1745558438_9202d1b8c446efa8f2f5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190282",
+      "name": "บ้านนกเหาะ",
+      "row_num": 171,
+      "orders": [
+        {
+          "id": "18123",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วารุณี คำศรี",
+          "created_at": "2025-04-03 11:14:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190282/1743653687_af72bb39937c8d6fcda9.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190283",
+      "name": "บ้านหนองบัวราษฎร์รัฐบำรุง",
+      "row_num": 172,
+      "orders": [
+        {
+          "id": "52730",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านหนองบัวราษฎร์รัฐบำรุง",
+          "upload_user": "ช่อทิพย์  มาบุญ",
+          "created_at": "2026-03-13 15:12:18",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190283/1773389440_486c2b071bae5cb19c07.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190284",
+      "name": "บ้านวังม่วง",
+      "row_num": 173,
+      "orders": [
+        {
+          "id": "66324",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พัชราภา สุวรรณเทน",
+          "created_at": "2026-04-01 09:30:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190284/1775010550_6401fffb800588d4e050.pdf"
+        },
+        {
+          "id": "40974",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "พัชราภา สุวรรณเทน",
+          "created_at": "2025-04-18 12:38:27",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190284/1744954701_72f189f86c36978ce326.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190285",
+      "name": "บ้านดอนกลาง",
+      "row_num": 174,
+      "orders": [
+        {
+          "id": "51717",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "รัชลียา ดาบพิมพ์ศรี",
+          "created_at": "2026-03-10 14:48:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190285/1773128799_86853726ea6b926a3b2a.pdf"
+        },
+        {
+          "id": "44209",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "รัชลียา ดาบพิมพ์ศรี",
+          "created_at": "2025-04-24 22:07:22",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190285/1745507235_0ccb84e38463743b04fc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190286",
+      "name": "บ้านห้วยไหล่",
+      "row_num": 175,
+      "orders": [
+        {
+          "id": "51403",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "สุพรรนิภา แสนสุภา",
+          "created_at": "2026-03-09 09:51:59",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190286/1773024622_beaced85203669f84f86.pdf"
+        },
+        {
+          "id": "31290",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "สุพรรนิภา แสนสุภา",
+          "created_at": "2025-04-08 21:29:07",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190286/1744122541_23b89b4cca17a8dd0745.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190287",
+      "name": "ชุมชนหนองฮีสามัคคี",
+      "row_num": 176,
+      "orders": [
+        {
+          "id": "38491",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "ยุทธเทวา นันชนะ",
+          "created_at": "2025-04-13 21:21:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190287/1744554108_f4482e1c347acc4915f8.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190288",
+      "name": "บ้านนาสะเดา",
+      "row_num": 177,
+      "orders": [
+        {
+          "id": "50832",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการโรงเรียนบ้านนาสะเดา",
+          "upload_user": "นุดสบา บุญเกตุ",
+          "created_at": "2026-03-02 10:04:17",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190288/1772420562_623c399218dd0a43bcd5.pdf"
+        },
+        {
+          "id": "24822",
+          "description": "คณะกรรมการวิชาการ",
+          "upload_user": "นุดสบา บุญเกตุ",
+          "created_at": "2025-04-05 11:15:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190288/1743826535_9d6053018011b9bd6246.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190289",
+      "name": "บ้านโพนทัน",
+      "row_num": 178,
+      "orders": [
+        {
+          "id": "53760",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "นายพันธุ์พงศ์  หอมจำปา",
+          "created_at": "2026-03-17 10:53:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190289/1773719533_463fe10aea19f69eb40e.pdf"
+        },
+        {
+          "id": "45674",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": " ",
+          "created_at": "2025-04-30 01:22:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190289/1745950958_c9d30796f6e9a448b24a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190290",
+      "name": "บ้านกุงโกน",
+      "row_num": 179,
+      "orders": [
+        {
+          "id": "59770",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการจัดทำ ปพ.3 โรงเรียนบ้านกุงโกน",
+          "upload_user": " ",
+          "created_at": "2026-03-26 14:28:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190290/1774510007_c1789dd6968303696189.pdf"
+        },
+        {
+          "id": "23858",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการกำรจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓)",
+          "upload_user": "ภาริดา ดีนัก",
+          "created_at": "2025-04-04 17:33:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190290/1743762812_c1160b2efa9223f82346.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190291",
+      "name": "บ้านหนองกกคูณ",
+      "row_num": 180,
+      "orders": [
+        {
+          "id": "48966",
+          "description": "การแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการของโรงเรียน",
+          "upload_user": "เหมือนฝัน เตยชันชะ",
+          "created_at": "2026-01-08 16:03:28",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190291/1767862927_f3b9a1d97448b2dd5285.pdf"
+        },
+        {
+          "id": "48965",
+          "description": "ให้ข้าราชการครูและบุคลากรทางการศึกษารักษาการในตำแหน่งผู้อำนวยการสถานศึกษา",
+          "upload_user": "เหมือนฝัน เตยชันชะ",
+          "created_at": "2026-01-08 16:02:07",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190291/1767862846_2a5820798468b6521286.pdf"
+        },
+        {
+          "id": "34308",
+          "description": "การแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการของโรงเรียน",
+          "upload_user": "เหมือนฝัน เตยชันชะ",
+          "created_at": "2025-04-10 11:30:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190291/1744259414_f4e2c28ba63f4ed3e81d.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190292",
+      "name": "บ้านจรุกเตย",
+      "row_num": 181,
+      "orders": [
+        {
+          "id": "40841",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ถวัลย์ จันทร์ศรีเมือง",
+          "created_at": "2025-04-18 11:02:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190292/1744948951_c6bedb64d2406065b67a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190293",
+      "name": "บ้านนาดอกไม้",
+      "row_num": 182,
+      "orders": [
+        {
+          "id": "45160",
+          "description": "เรื่องแต่งตั้งคณะกรรมการวิชาการปพ.3ออนไลน์",
+          "upload_user": "นายเศรษฐา    ลุมวงค์",
+          "created_at": "2025-04-28 17:16:21",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190293/1745835373_da973e6286b9a711cd6c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190294",
+      "name": "ปลาปากราษฎร์บำรุง",
+      "row_num": 183,
+      "orders": [
+        {
+          "id": "18638",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนสถานศึกษา ที่  23/2568  ลงวันที่ 13 มีนาคม พ.ศ. 2568",
+          "upload_user": "ประวินา สังข์สน",
+          "created_at": "2025-04-03 12:10:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190294/1743657047_04614f56b43f9a29e730.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190295",
+      "name": "บ้านนาขาม",
+      "row_num": 184,
+      "orders": [
+        {
+          "id": "48841",
+          "description": "คำสั่งแต่งตั้งนานทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นิตติยา สิงห์ด้วง",
+          "created_at": "2025-12-01 08:44:13",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190295/1764553383_622c78273270072b064a.pdf"
+        },
+        {
+          "id": "45319",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นิตติยา สิงห์ด้วง",
+          "created_at": "2025-04-29 10:41:00",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190295/1745898051_c9e0a1f5a4eb0ed375be.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190296",
+      "name": "บ้านวังยาง",
+      "row_num": 185,
+      "orders": [
+        {
+          "id": "20650",
+          "description": "แต่งตั้งคณะกรรมการดําเนินการจัดทําแบบรายงานผู้สําเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.๓)",
+          "upload_user": "เกศศิณีย์  เหล็กจารย์",
+          "created_at": "2025-04-03 19:47:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190296/1743684472_1e91cbde97bae19bbbca.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190297",
+      "name": "บ้านกอก",
+      "row_num": 186,
+      "orders": [
+        {
+          "id": "71212",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ชนิตา คุ้มทรัพย์สิริ",
+          "created_at": "2026-04-03 20:40:02",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190297/1775223602_8b44c9acc339bc0fcb9a.pdf"
+        },
+        {
+          "id": "41177",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": " ",
+          "created_at": "2025-04-18 15:32:36",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190297/1744965150_0febfac8a9ccf84272bc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190298",
+      "name": "บ้านหนองบัว",
+      "row_num": 187,
+      "orders": [
+        {
+          "id": "49539",
+          "description": "คำสั่งคณะกรรมการวิชาการ 2569",
+          "upload_user": "พรรณิภา ศรีสุธรรม",
+          "created_at": "2026-02-05 14:02:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190298/1770274889_a8e562d4024d3478c404.pdf"
+        },
+        {
+          "id": "26686",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "พรรณิภา ศรีสุธรรม",
+          "created_at": "2025-04-06 17:58:05",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190298/1743937080_9602656176bee8095e7b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190299",
+      "name": "บ้านโคกกลาง",
+      "row_num": 188,
+      "orders": [
+        {
+          "id": "59589",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "อัฐพล ธงยศ",
+          "created_at": "2026-03-26 13:03:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190299/1774504928_5ed0c20bb56ee2f044cb.pdf"
+        },
+        {
+          "id": "46624",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ปรีณาภา ปัญญาพ่อ",
+          "created_at": "2025-05-07 16:12:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190299/1746609163_b7eab8eec85fcf52ab48.pdf"
+        },
+        {
+          "id": "3216",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นายอัฐพล ธงยศ",
+          "created_at": "2025-01-13 10:16:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190299/1736738180_5b993f75184839dbe5dd.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190300",
+      "name": "บ้านใหม่วังเซือม",
+      "row_num": 189,
+      "orders": [
+        {
+          "id": "53154",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านใหม่วังเซือม ปีการศึกษา 2568",
+          "upload_user": "รัตติย์กร รัตนพันธ์",
+          "created_at": "2026-03-16 11:38:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190300/1773635791_227d8b55726e0b202adc.pdf"
+        },
+        {
+          "id": "40839",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านใหม่วังเซือม",
+          "upload_user": " ",
+          "created_at": "2025-04-18 11:02:16",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190300/1744948931_45d309ed82a786674e93.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190301",
+      "name": "บ้านปลาปากน้อย",
+      "row_num": 190,
+      "orders": [
+        {
+          "id": "51784",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "สารภี ไชยมาตร์",
+          "created_at": "2026-03-10 17:37:38",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190301/1773138961_437f5da919f9819a92e6.pdf"
+        },
+        {
+          "id": "25274",
+          "description": "แต่งตั้งคณะกรรมกำรดำเนินกำรจัดทำแบบรำยงำนผู้สำเร็จกำรศึกษำ (ปพ.3)",
+          "upload_user": "สารภี ไชยมาตร์",
+          "created_at": "2025-04-05 14:45:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190301/1743839126_f8a897df41ee43e79fd7.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190302",
+      "name": "บ้านถาวรนาอุดม",
+      "row_num": 191,
+      "orders": [
+        {
+          "id": "49261",
+          "description": "คณะกรรมการวิชาการ",
+          "upload_user": "ณิชกุล  อัมพา",
+          "created_at": "2026-01-28 15:47:14",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190302/1769589947_e995c9b3f578cc4e2185.pdf"
+        },
+        {
+          "id": "25757",
+          "description": "คณะกรรมการวิชาการ",
+          "upload_user": "ณิชกุล  อัมพา",
+          "created_at": "2025-04-05 20:53:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190302/1743861225_394a2e4ec8e32d675692.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190303",
+      "name": "บ้านโคกสว่าง",
+      "row_num": 192,
+      "orders": [
+        {
+          "id": "55773",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการจัดทำปพ.๓",
+          "upload_user": "เทิดทูล รักสุจริต",
+          "created_at": "2026-03-20 13:14:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190303/1773987192_04c64b13303e9b5284e9.pdf"
+        },
+        {
+          "id": "41248",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการจัดทำปพ.๓",
+          "upload_user": "เทิดทูล รักสุจริต",
+          "created_at": "2025-04-18 16:48:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190303/1744969699_68dd78a70fc33ee94953.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190304",
+      "name": "บ้านตับเต่าหนองเทาสามัคคี",
+      "row_num": 193,
+      "orders": [
+        {
+          "id": "58880",
+          "description": "ตั้งตั้งนายทะเบียนและคณะกรรมการวิชาการในโรงเรียน",
+          "upload_user": "นางนฤมล โกพล",
+          "created_at": "2026-03-25 15:02:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190304/1774425665_06d1c2ed03963c5af24f.pdf"
+        },
+        {
+          "id": "3074",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการในโรงเรียน",
+          "upload_user": "นางนฤมล โกพล",
+          "created_at": "2025-01-09 09:53:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190304/1736391212_f93e4683cc8dd0d28c4d.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190306",
+      "name": "บ้านวังกะเบา",
+      "row_num": 194,
+      "orders": [
+        {
+          "id": "41005",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "สร้อยสุดา ราชอินทร์",
+          "created_at": "2025-04-18 12:59:19",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190306/1744955953_385f8bf52cb6085a49fe.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190307",
+      "name": "บ้านนาสีนวล",
+      "row_num": 195,
+      "orders": [
+        {
+          "id": "55767",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "วราภรณ์   อุตพรม",
+          "created_at": "2026-03-20 13:11:08",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190307/1773986968_8e81021c5ccd8c578fb6.pdf"
+        },
+        {
+          "id": "41153",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ทองเหรียน หกลา",
+          "created_at": "2025-04-18 15:03:44",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190307/1744963418_5bacd1d94e079008329c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190308",
+      "name": "บ้านนาเชือก",
+      "row_num": 196,
+      "orders": [
+        {
+          "id": "24753",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน (ปพ.3) ปีการศึกษา 2567",
+          "upload_user": "ภัทรพงศ์ สุภาพันธ์",
+          "created_at": "2025-04-05 10:48:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190308/1743824899_3cfe24a43ba68cad610e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190310",
+      "name": "บ้านศรีธน",
+      "row_num": 197,
+      "orders": [
+        {
+          "id": "68990",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นพรัตน์ พุดลา",
+          "created_at": "2026-04-02 13:06:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190310/1775109914_43e9a148c76444d080b3.pdf"
+        },
+        {
+          "id": "31948",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นพรัตน์ พุดลา",
+          "created_at": "2025-04-09 11:10:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190310/1744171844_46a44497a76be21b05e4.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190311",
+      "name": "บ้านวังสิม",
+      "row_num": 198,
+      "orders": [
+        {
+          "id": "49439",
+          "description": "คำสั่งจัดตั้งคณะกรรมการจัดทำปพ.3ปี69",
+          "upload_user": "สมฤดี พันทอง",
+          "created_at": "2026-02-03 14:42:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190311/1770104478_b6f7390806690835c5e5.pdf"
+        },
+        {
+          "id": "27908",
+          "description": "คำสั่งจัดตั้งคณะกรรมการจัดทำปพ.3",
+          "upload_user": "สมฤดี พันทอง",
+          "created_at": "2025-04-07 15:21:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190311/1744014099_05512168e44276f160b6.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190312",
+      "name": "บ้านสว่างสำราญ",
+      "row_num": 199,
+      "orders": [
+        {
+          "id": "34304",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ศรินทรา   มาบุญ",
+          "created_at": "2025-04-10 11:29:35",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190312/1744259369_9cb5e8aaa160a9318933.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190313",
+      "name": "บ้านโคกสูง",
+      "row_num": 200,
+      "orders": [
+        {
+          "id": "50580",
+          "description": "19/2569",
+          "upload_user": "วิมลรัตน์ สาทะโพน",
+          "created_at": "2026-02-24 21:15:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190313/1771942431_03a4a56c3566ad0396d0.pdf"
+        },
+        {
+          "id": "49561",
+          "description": "19/2569",
+          "upload_user": "วิมลรัตน์ สาทะโพน",
+          "created_at": "2026-02-06 09:12:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190313/1770343835_932c811a635b6c21fe26.pdf"
+        },
+        {
+          "id": "16857",
+          "description": "20/2568",
+          "upload_user": "วิมลรัตน์ สาทะโพน",
+          "created_at": "2025-04-02 20:42:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190313/1743601367_fb3bb7666b4d92b3f178.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190314",
+      "name": "บ้านม่วง",
+      "row_num": 201,
+      "orders": [
+        {
+          "id": "51423",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ปริญาพร  คำเห็น",
+          "created_at": "2026-03-09 10:34:35",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190314/1773027178_44fc9e132dbfd9779811.pdf"
+        },
+        {
+          "id": "27216",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ปริญาพร  คำเห็น",
+          "created_at": "2025-04-07 10:37:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190314/1743997049_dbd3ac22104bf64e38ef.pdf"
+        },
+        {
+          "id": "12771",
+          "description": "แต่งตั้งคณะกรรมการตรวจสอบเอกสารหลักฐานการศึกษา (ปพ.1, ปพ.2, ปพ.3)                      ประจำปีการศึกษา 2567",
+          "upload_user": "ปริญาพร  คำเห็น",
+          "created_at": "2025-03-31 16:08:23",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190314/1743412103_91d8e2a5531d1a243c0b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190315",
+      "name": "เรณูวิทยาคาร",
+      "row_num": 202,
+      "orders": [
+        {
+          "id": "40748",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ชินธิป เสนากัง",
+          "created_at": "2025-04-18 09:52:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190315/1744944757_8c8645380ef680fa30b3.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190316",
+      "name": "บ้านโนนสังข์",
+      "row_num": 203,
+      "orders": [
+        {
+          "id": "17992",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป)  ปีการศึกษา 2567",
+          "upload_user": "ฐิติญาภรณ์ ภูดินดาน",
+          "created_at": "2025-04-03 11:00:42",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190316/1743652837_25a066bf9ae1642e3824.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190317",
+      "name": "บ้านนาบั่ว",
+      "row_num": 204,
+      "orders": [
+        {
+          "id": "45821",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "กนกสิริ สุขรี",
+          "created_at": "2025-04-30 12:13:23",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190317/1745989994_67692eba21b795afb83c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190318",
+      "name": "บ้านโพนสาวเอ้",
+      "row_num": 205,
+      "orders": [
+        {
+          "id": "19009",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน(ปพ.3) ปีการศึกษา 2567",
+          "upload_user": "สุนิสา วรรณา",
+          "created_at": "2025-04-03 13:02:18",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190318/1743660133_0a0ebf53b89d0c410946.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190319",
+      "name": "บ้านโคกกลาง",
+      "row_num": 206,
+      "orders": [
+        {
+          "id": "57283",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา(ปพ.๓ : ป) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "สุพัตรา เข็มขาว",
+          "created_at": "2026-03-23 23:00:51",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190319/1774281550_659865c0117dc6ad45e0.pdf"
+        },
+        {
+          "id": "22881",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลัสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา(ปพ.๓ : ป) ปีการศึกษา ๒๕๒๗",
+          "upload_user": "สกุลวรรณ หัตถีจร",
+          "created_at": "2025-04-04 14:10:48",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190319/1743750643_71cb10044ea980b1bd64.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190321",
+      "name": "บ้านนาโดนเก่า",
+      "row_num": 207,
+      "orders": [
+        {
+          "id": "40649",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "เบญจมาศ หมื่นสาย",
+          "created_at": "2025-04-17 21:14:59",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190321/1744899294_13f056ed331ec819b1e4.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190323",
+      "name": "โพนทองวิทยาคาร",
+      "row_num": 208,
+      "orders": [
+        {
+          "id": "40425",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นภาพร มาตราช",
+          "created_at": "2025-04-17 15:24:05",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190323/1744878240_ed196b743ebfb6097d5a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190324",
+      "name": "บ้านดงมะเอก",
+      "row_num": 209,
+      "orders": [
+        {
+          "id": "48832",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ณัฐพงษ์ สัพโส",
+          "created_at": "2025-11-27 11:08:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190324/1764216431_a3bcd9919bc62f7c0110.pdf"
+        },
+        {
+          "id": "44392",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ณัฐพงษ์ สัพโส",
+          "created_at": "2025-04-25 13:56:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190324/1745564197_21a31a9da3bfc9c0a4ac.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190325",
+      "name": "ชุมชนบ้านหนองย่างซี้น",
+      "row_num": 210,
+      "orders": [
+        {
+          "id": "66573",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนชุมชนบ้านหนองย่างซี้น",
+          "upload_user": "รัตติยา ยะไวย์",
+          "created_at": "2026-04-01 10:41:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190325/1775014777_4c97bdb4d44a3e404f8c.pdf"
+        },
+        {
+          "id": "3537",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนชุมชนบ้านหนองย่างซี้น 2568",
+          "upload_user": "รัตติยา ยะไวย์",
+          "created_at": "2025-01-20 16:08:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190325/1737364130_33eff1735eb91a3af89c.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190326",
+      "name": "บ้านนาดี",
+      "row_num": 211,
+      "orders": [
+        {
+          "id": "44624",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านนาดี",
+          "upload_user": "สุภิญญา นวนนุกุล",
+          "created_at": "2025-04-26 12:37:07",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190326/1745645819_228dae7e05cc30138bfb.pdf"
+        },
+        {
+          "id": "43040",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านนาดี",
+          "upload_user": "สิรคุปต์ ไชโย",
+          "created_at": "2025-04-22 18:39:22",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190326/1745321956_74a3dce30b5f66aa3fca.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190327",
+      "name": "บ้านดงบาก",
+      "row_num": 212,
+      "orders": [
+        {
+          "id": "63494",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน(ปพ.3) ปีการศึกษา 2568",
+          "upload_user": "พีรพล       มิ่งขวัญ",
+          "created_at": "2026-03-30 16:51:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190327/1774864181_950daf95886f88204a0e.pdf"
+        },
+        {
+          "id": "29067",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน(ปพ.3) ปีการศึกษา 2567",
+          "upload_user": "พีรพล       มิ่งขวัญ",
+          "created_at": "2025-04-08 11:10:06",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190327/1744085400_d167da4f7b27350eb7bb.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190329",
+      "name": "บ้านหัวขัวใต้",
+      "row_num": 213,
+      "orders": [
+        {
+          "id": "72635",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ทนงศักดิ์ อัตติยะ",
+          "created_at": "2026-04-06 18:42:42",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190329/1775475762_7c67e35709f5ccd546ab.pdf"
+        },
+        {
+          "id": "45190",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ทนงศักดิ์ อัตติยะ",
+          "created_at": "2025-04-28 19:00:05",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190329/1745841597_f9c683b53f9c37cce8ae.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190330",
+      "name": "บ้านเหล่าสำราญ",
+      "row_num": 214,
+      "orders": [
+        {
+          "id": "29981",
+          "description": "แต่งตั้งกรรมการ ปพ.3 โรงเรียนบ้านเหล่าสำราญ",
+          "upload_user": " ",
+          "created_at": "2025-04-08 13:50:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190330/1744094998_185a43c0123c8bc0f397.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190331",
+      "name": "บ้านโคกหินแฮ่",
+      "row_num": 215,
+      "orders": [
+        {
+          "id": "54801",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา 2568",
+          "upload_user": "สุรีรัตน์ แสนศรี",
+          "created_at": "2026-03-18 15:23:02",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190331/1773822082_2c0da8f27ca0a6653157.pdf"
+        },
+        {
+          "id": "3992",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา ๒๕๖๗",
+          "upload_user": "รองจิตร ภูมิลุน",
+          "created_at": "2025-01-30 09:45:37",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190331/1738205137_52505d6bba97bfeec51f.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190332",
+      "name": "บ้านหนองแซง",
+      "row_num": 216,
+      "orders": [
+        {
+          "id": "58226",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": " ",
+          "created_at": "2026-03-25 09:23:54",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190332/1774405333_44dbb021c7aa09b8bbb6.pdf"
+        },
+        {
+          "id": "22576",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": " ",
+          "created_at": "2025-04-04 13:19:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190332/1743747539_443777f12a12fbcf4805.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190333",
+      "name": "บ้านนาโดนใหม่",
+      "row_num": 217,
+      "orders": [
+        {
+          "id": "70909",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "เจษฎา อัตติยะ",
+          "created_at": "2026-04-03 15:03:44",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190333/1775203424_d89171a5c787b0c8c9df.pdf"
+        },
+        {
+          "id": "37254",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "เจษฎา อัตติยะ",
+          "created_at": "2025-04-12 10:37:42",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190333/1744429058_28afd94ff0da7f40c03f.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190334",
+      "name": "บ้านนาบัว",
+      "row_num": 218,
+      "orders": [
+        {
+          "id": "36443",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "สุภา บุญพา",
+          "created_at": "2025-04-11 16:10:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190334/1744362606_7c09362885f40d7c3e53.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190335",
+      "name": "บ้านนาม่วง",
+      "row_num": 219,
+      "orders": [
+        {
+          "id": "23682",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียนบ้านนาม่วง ",
+          "upload_user": "ปวีณา ศรีเเสง",
+          "created_at": "2025-04-04 16:41:49",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190335/1743759704_7be05ef5e5dc9c899d22.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190336",
+      "name": "บ้านหนองกุง",
+      "row_num": 220,
+      "orders": []
+    },
+    {
+      "sch_id": "1048190337",
+      "name": "นางามวิทยาคาร",
+      "row_num": 221,
+      "orders": [
+        {
+          "id": "48786",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารหลักฐานระเบียนแสดงผลการเรียน (ปพ.๑) ประกาศนียบัตร (ปพ.๒) แบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "วรีรัตน์ หานาม",
+          "created_at": "2025-11-19 10:27:44",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190337/1763522797_b47a419067c45cc7feed.pdf"
+        },
+        {
+          "id": "30293",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารหลักฐานระเบียนแสดงผลการเรียน (ปพ.๑) ประกาศนียบัตร (ปพ.๒) แบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "วรีรัตน์ หานาม",
+          "created_at": "2025-04-08 14:51:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190337/1744098704_1f4170823a79d3208633.pdf"
+        },
+        {
+          "id": "8922",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารหลักฐานระเบียนแสดงผลการเรียน (ปพ.๑) ประกาศนียบัตร (ปพ.๒)  แบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "พรเพ็ญ สารทอง",
+          "created_at": "2025-03-20 11:53:24",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190337/1742446404_e331b9a1f70962108866.pdf"
+        },
+        {
+          "id": "8907",
+          "description": "แต่งตั้งคณะกรรมการจัดทำเอกสารหลักฐานระเบียนแสดงผลการเรียน (ปพ.๑) ประกาศนียบัตร (ปพ.๒)  แบบรายงานผู้สำเร็จการศึกษา (ปพ.๓) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "พรเพ็ญ สารทอง",
+          "created_at": "2025-03-20 11:17:44",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190337/1742444264_d64c09aae12dbf071c8f.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190338",
+      "name": "บ้านสร้างแป้น",
+      "row_num": 222,
+      "orders": [
+        {
+          "id": "63890",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.๓ : ป) ปีการศึกษา ๒๕๖๘",
+          "upload_user": "เนตรงาม ฉายวงษ์",
+          "created_at": "2026-03-31 09:28:48",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190338/1774924025_46ffd8c3bcee1b8edd7a.pdf"
+        },
+        {
+          "id": "41223",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "เนตรงาม ฉายวงษ์",
+          "created_at": "2025-04-18 16:12:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190338/1744967549_d84aab5f4014956ff706.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190339",
+      "name": "บ้านดอนกกโพธิ์ค่ายเสรีวิทยา",
+      "row_num": 223,
+      "orders": [
+        {
+          "id": "52093",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ ปพ3 ออนไลน์",
+          "upload_user": "จันทรา จันทร์สมบูรณ์",
+          "created_at": "2026-03-12 11:00:42",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190339/1773287944_3680b3b683047abf3412.pdf"
+        },
+        {
+          "id": "21851",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "เพ็ญศรี บัวสาย",
+          "created_at": "2025-04-04 11:32:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190339/1743741146_0a63a89380215199b85d.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190340",
+      "name": "บ้านคำผาสุก",
+      "row_num": 224,
+      "orders": [
+        {
+          "id": "53431",
+          "description": "คณะกรรมการวิชาการ",
+          "upload_user": " ",
+          "created_at": "2026-03-16 15:17:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190340/1773648977_5611e995d0106cc5940d.pdf"
+        },
+        {
+          "id": "40946",
+          "description": "คณะกรรมการวิชาการ",
+          "upload_user": "ปนัดดา เตโช",
+          "created_at": "2025-04-18 12:11:29",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190340/1744953084_4cf50a1ec69e65c1bd74.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190341",
+      "name": "บ้านนายอน้อย",
+      "row_num": 225,
+      "orders": [
+        {
+          "id": "56473",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดพิมพ์ ตรวจทาน ใบรายงานผู้สำเร็จ           การศึกษา (ปพ.๓)",
+          "upload_user": "รุ้งรดา ติโนชัง",
+          "created_at": "2026-03-23 09:38:49",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190341/1774233429_0a1310472a151e985163.pdf"
+        },
+        {
+          "id": "22441",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดพิมพ์ ตรวจทาน ใบรายงานผู้สำเร็จการศึกษา (ปพ.๓)",
+          "upload_user": " ",
+          "created_at": "2025-04-04 12:56:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190341/1743746211_fccf84c58fca009583e7.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190342",
+      "name": "บ้านโนนสวรรค์",
+      "row_num": 226,
+      "orders": [
+        {
+          "id": "58367",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ณัฐนิช อุพร",
+          "created_at": "2026-03-25 10:35:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190342/1774409644_9ae3aa7efb73063b5f30.pdf"
+        },
+        {
+          "id": "26757",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "ณัฐนิช อุพร",
+          "created_at": "2025-04-06 19:31:03",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190342/1743942657_3f79b43cf7ffaa4bbfdf.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190344",
+      "name": "บ้านนายอ",
+      "row_num": 227,
+      "orders": [
+        {
+          "id": "52848",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓)",
+          "upload_user": "มณีรัตน์ ธิติชัยกุลพัทธ์",
+          "created_at": "2026-03-14 15:31:40",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190344/1773477002_a0cff353278a71fc24ca.pdf"
+        },
+        {
+          "id": "7990",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา (ปพ.๓)",
+          "upload_user": "มณีรัตน์ คำย้อย",
+          "created_at": "2025-03-14 14:24:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190344/1741937074_8b60b9ea7918e1d56ac8.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190345",
+      "name": "บ้านท่าลาด (ราษฎร์วิทยานุกูล)",
+      "row_num": 228,
+      "orders": [
+        {
+          "id": "49437",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ธัญญารัตน์ แก้วอุดม",
+          "created_at": "2026-02-03 14:37:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190345/1770104184_902b2fdb732a81858722.pdf"
+        },
+        {
+          "id": "35933",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ธัญญารัตน์ แก้วอุดม",
+          "created_at": "2025-04-11 09:26:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190345/1744338388_30ac3222b28e85f3e89a.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190346",
+      "name": "บ้านเหิบ",
+      "row_num": 229,
+      "orders": [
+        {
+          "id": "50589",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการโรงเรียนบ้านเหิบ",
+          "upload_user": "ศักดิ์ดา สายใจ",
+          "created_at": "2026-02-25 09:45:39",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190346/1771987446_90ebdd6bdcb59800bd19.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190348",
+      "name": "บ้านสร้างเม็ก",
+      "row_num": 230,
+      "orders": [
+        {
+          "id": "18394",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน ",
+          "upload_user": "นฤมล อัตติยะ",
+          "created_at": "2025-04-03 11:46:31",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190348/1743655586_7d9104a1c3a75402347e.pdf"
+        },
+        {
+          "id": "18388",
+          "description": "แต่งตั้งคณะกรรมการจัดทำระเบียนแสดงผลการเรียนหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน (ปพ.๑) ",
+          "upload_user": "นฤมล อัตติยะ",
+          "created_at": "2025-04-03 11:45:41",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190348/1743655537_8cd862a449495b410df5.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190349",
+      "name": "บ้านดอนขาว",
+      "row_num": 231,
+      "orders": [
+        {
+          "id": "3468",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "อรุณรัตน์ บุพศิริ",
+          "created_at": "2025-01-17 15:18:43",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190349/1737101923_f77cc45a734d9bd754fb.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190350",
+      "name": "บ้านนาขาม",
+      "row_num": 232,
+      "orders": [
+        {
+          "id": "49453",
+          "description": "คำสั่งเรื่อง แต่งตั้งคณะกรรมการวิชาการ ปพ.3 ออนไลน์",
+          "upload_user": "เจนจิรา แหขุนทด",
+          "created_at": "2026-02-03 19:22:47",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190350/1770121279_5fe4a02f5f1f067a3ca8.pdf"
+        },
+        {
+          "id": "16647",
+          "description": "คำสั่งเรื่อง แต่งตั้งคณะกรรมการวิชาการ ปพ.3 ออนไลน์",
+          "upload_user": "เจนจิรา แหขุนทด",
+          "created_at": "2025-04-02 16:40:08",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190350/1743586808_11be1158c0b4a0be8e5b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190351",
+      "name": "ลาดสว่างวิทยา",
+      "row_num": 233,
+      "orders": [
+        {
+          "id": "59302",
+          "description": "ตำสั่งคณะกรรมการวิชาการโรงเรียนลาดสว่างวิทยา",
+          "upload_user": "กนกวัลย์ อัตติยะ",
+          "created_at": "2026-03-26 10:28:01",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190351/1774495579_4a7432fc414e38681811.pdf"
+        },
+        {
+          "id": "36965",
+          "description": "คำสั่งคณะกรรมการวิชาการโรงเรียนลาดสว่างวิทยา",
+          "upload_user": "กนกวัลย์ อัตติยะ",
+          "created_at": "2025-04-11 22:18:56",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190351/1744384733_1ada394535a594531289.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190442",
+      "name": "บ้านวังยาง",
+      "row_num": 234,
+      "orders": [
+        {
+          "id": "18803",
+          "description": "แต่งตั้งคณะกรรมการดำเนินกรจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน  ระดับประถมศึกษา (ปพ.๓ : ป) ปีการศึกษา ๒๕๖๗",
+          "upload_user": " ",
+          "created_at": "2025-04-03 12:33:46",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190442/1743658422_adf71a317ed5bee4990e.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190443",
+      "name": "บ้านนาขามส้มป่อย",
+      "row_num": 235,
+      "orders": [
+        {
+          "id": "57440",
+          "description": "คำสั่งโรงเรียนบ้านนาขามส้มป่อย ปพ.3",
+          "upload_user": "วิภาพร พรมพินิจ",
+          "created_at": "2026-03-24 10:24:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190443/1774322596_49aaba6222ed46e430d9.pdf"
+        },
+        {
+          "id": "41722",
+          "description": "คำสั่งคณะกรรมการวิชาการฯปีการศึกษา 2567",
+          "upload_user": "วนิดา หนึ่งคำมี",
+          "created_at": "2025-04-20 12:17:38",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190443/1745126251_24e7c4e149fd627d2f8b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190444",
+      "name": "บ้านหนองนางด่อน",
+      "row_num": 236,
+      "orders": [
+        {
+          "id": "60664",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2568",
+          "upload_user": "เพลินจิต แสนคำ",
+          "created_at": "2026-03-27 12:31:36",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190444/1774589394_9821a9d8204b63802570.pdf"
+        },
+        {
+          "id": "24238",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "เพลินจิต แสนคำ",
+          "created_at": "2025-04-04 21:03:57",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190444/1743775431_5f9e4436354ee2cf0b80.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190445",
+      "name": "บ้านหนองสะโนนาสมบูรณ์",
+      "row_num": 237,
+      "orders": [
+        {
+          "id": "65277",
+          "description": "คำสั่งปพ.3 โรงเรียนบ้านหนองสะโนนาสมบูรณ์          ",
+          "upload_user": "อิสริยา เชื้อพันธ์ุ",
+          "created_at": "2026-03-31 14:34:09",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190445/1774942346_e3509f7892a5aa9b9a55.pdf"
+        },
+        {
+          "id": "43466",
+          "description": "คำสั่งปพ.3 โรงเรียนบ้านหนองสะโนนาสมบูรณ์          ",
+          "upload_user": "อิสริยา เชื้อพันธ์ุ",
+          "created_at": "2025-04-23 13:53:59",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190445/1745391232_a00ee0e3d93b99843a92.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190446",
+      "name": "บ้านสามแยกหัวภูธร",
+      "row_num": 238,
+      "orders": [
+        {
+          "id": "60731",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา ตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป)",
+          "upload_user": "อาภากร จันทร์ชนะ",
+          "created_at": "2026-03-27 13:09:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190446/1774591648_3b42eed07bfa826810fb.pdf"
+        },
+        {
+          "id": "60730",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "อาภากร จันทร์ชนะ",
+          "created_at": "2026-03-27 13:08:23",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190446/1774591601_de66cdc02cdd0b555aff.pdf"
+        },
+        {
+          "id": "46001",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ",
+          "upload_user": "อุไรพร เชื้อพระซอง",
+          "created_at": "2025-04-30 16:59:00",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190446/1746007131_eda91c3104801a5fdde9.pdf"
+        },
+        {
+          "id": "45980",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.๓ : ป) ปีการศึกษา ๒๕๖๗",
+          "upload_user": "อุไรพร เชื้อพระซอง",
+          "created_at": "2025-04-30 16:13:34",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190446/1746004405_64bfb5f9d7096bbc2bf0.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190447",
+      "name": "หนองผักแว่นโนนฮังหนองบัวสามัคคี",
+      "row_num": 239,
+      "orders": [
+        {
+          "id": "9361",
+          "description": "คำสั่งแต่งตั้ง",
+          "upload_user": "กิตติยา เพ็งเวลุน",
+          "created_at": "2025-03-24 08:46:02",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190447/1742780762_f1a69106d1938513b320.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190448",
+      "name": "บ้านโคกสีมิตรภาพที่ 87",
+      "row_num": 240,
+      "orders": [
+        {
+          "id": "42636",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "ดวงชีวัน สระสิริ",
+          "created_at": "2025-04-22 11:20:25",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190448/1745295619_6dda4d4e220196e5f7fc.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190449",
+      "name": "บ้านโนนหอม",
+      "row_num": 241,
+      "orders": [
+        {
+          "id": "56783",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป)",
+          "upload_user": "คัทลียา ศรีชาหลวง",
+          "created_at": "2026-03-23 12:19:52",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190449/1774243091_b0f34b96a74570f7dde2.pdf"
+        },
+        {
+          "id": "22600",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": " ",
+          "created_at": "2025-04-04 13:23:05",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190449/1743747780_d8c3309c790d55f0695b.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190450",
+      "name": "บ้านหนองโพธิ์วังโน",
+      "row_num": 242,
+      "orders": [
+        {
+          "id": "54237",
+          "description": "คำสั่งโรงเรียนโรงเรียนบ้านหนองโพธิ์วังโน ที่  9/2569 เรื่อง  แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นารีรัตน์ จันทร์แดง",
+          "created_at": "2026-03-17 16:32:35",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190450/1773739856_8858de202ec95b94e2d4.pdf"
+        },
+        {
+          "id": "29408",
+          "description": "คำสั่งโรงเรียนโรงเรียนบ้านหนองโพธิ์วังโน ที่ 19/2568 เรื่อง  แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": "นารีรัตน์ จันทร์แดง",
+          "created_at": "2025-04-08 12:02:50",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190450/1744088564_b91d794d8e5dd0aaa144.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190451",
+      "name": "บ้านโพนสวางหนองแหน",
+      "row_num": 243,
+      "orders": [
+        {
+          "id": "24412",
+          "description": "แต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษาตามหลักสูตรแกนกลาง การศึกษาขั้นพื้นฐาน ระดับประถมศึกษา (ปพ.3 : ป) ปีการศึกษา 2567",
+          "upload_user": " ",
+          "created_at": "2025-04-04 22:47:20",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190451/1743781635_7aceeb37d1cf542753c6.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190452",
+      "name": "บ้านยอดชาดวิทยา",
+      "row_num": 244,
+      "orders": [
+        {
+          "id": "63317",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นายณัฐเดช จันทรผัน",
+          "created_at": "2026-03-30 15:38:55",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190452/1774859832_f90524ec4e018f9ecf5b.pdf"
+        },
+        {
+          "id": "3012",
+          "description": "แต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "นายณัฐเดช จันทรผัน",
+          "created_at": "2025-01-08 09:44:44",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190452/1736304284_ae8c02b295394c7ab368.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190453",
+      "name": "บ้านผักขะย่านาคอยโนนแดง",
+      "row_num": 245,
+      "orders": [
+        {
+          "id": "51892",
+          "description": "คำสั่งโรงเรียนบ้านผักขะย่านาคอยโนนแดง 2568",
+          "upload_user": "อมรรัตน์ แสนศรี",
+          "created_at": "2026-03-11 14:37:58",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190453/1773214580_4068f3661bf72c82f4bb.pdf"
+        },
+        {
+          "id": "13133",
+          "description": "คำสั่งโรงเรียนบ้านผักขะย่านาคอยโนนแดง",
+          "upload_user": "อมรรัตน์ แสนศรี",
+          "created_at": "2025-03-31 18:09:15",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190453/1743419355_56fdd6a49099212226cb.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190454",
+      "name": "บ้านหนองบึง",
+      "row_num": 246,
+      "orders": [
+        {
+          "id": "52404",
+          "description": "คำสั่งแต่งตั้งนายทะเบียนและคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ธิดา ไกรรัตน์",
+          "created_at": "2026-03-13 09:31:45",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190454/1773369007_6bcad402e888ba5d6972.pdf"
+        },
+        {
+          "id": "16139",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการดำเนินการจัดทำแบบรายงานผู้สำเร็จการศึกษา",
+          "upload_user": "ธิดา ไกรรัตน์",
+          "created_at": "2025-04-02 13:58:10",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190454/1743577090_e49e3885f704b3d605e1.pdf"
+        }
+      ]
+    },
+    {
+      "sch_id": "1048190455",
+      "name": "บ้านหนองแคน",
+      "row_num": 247,
+      "orders": [
+        {
+          "id": "43665",
+          "description": "คำสั่งแต่งตั้งคณะกรรมการวิชาการ โรงเรียนบ้านหนองแคน",
+          "upload_user": "อารี ศรีนา",
+          "created_at": "2025-04-23 19:54:13",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190455/1745412846_b6b0e03651b35c234887.pdf"
         }
       ]
     }
