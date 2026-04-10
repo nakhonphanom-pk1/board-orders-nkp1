@@ -136,7 +136,7 @@ function showResult(school){
         <div class="order-num">${i+1}</div>
         <div class="order-detail">
           <div class="order-desc">${esc(o.description||'-')}</div>
-          <div class="order-meta">📝 ${esc(o.upload_user||'')} &nbsp;📅 ${thaiDate(o.created_at)}</div>
+          <div class="order-meta">ผู้บันทึก: ${esc(o.upload_user||'')} &nbsp;·&nbsp; วันที่อัปโหลด: ${thaiDate(o.created_at)}</div>
         </div>
         <a class="btn-open" href="${esc(o.url)}" target="_blank">📄 เปิดไฟล์</a>
       </div>`).join('')
