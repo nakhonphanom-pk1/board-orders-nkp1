@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-18T13:39:02.875Z",
+  "exported_at": "2026-04-29T08:25:49.491Z",
   "total": 247,
   "schools": [
     {
@@ -1119,7 +1119,15 @@
       "sch_id": "1048190064",
       "name": "เมืองนครพนม",
       "row_num": 59,
-      "orders": []
+      "orders": [
+        {
+          "id": "76066",
+          "description": "แต่งตั้งคณะกรรมการวิชาการโรงเรียน",
+          "upload_user": "ณัฐมญชุ์ สุวรรณไตรย์",
+          "created_at": "2026-04-19 19:00:27",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190064/1776600027_3ee2950c4b5740237b35.pdf"
+        }
+      ]
     },
     {
       "sch_id": "1048190065",
@@ -1630,6 +1638,20 @@
       "name": "บ้านคำชะอี",
       "row_num": 85,
       "orders": [
+        {
+          "id": "76186",
+          "description": "นายสุชาติ แสนสุภา",
+          "upload_user": "ชาลี พูนเทกอง",
+          "created_at": "2026-04-20 12:27:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190138/1776662852_ebc083a746da497c99cb.pdf"
+        },
+        {
+          "id": "76184",
+          "description": "นายสุชาติ แสนสุภา",
+          "upload_user": "ชาลี พูนเทกอง",
+          "created_at": "2026-04-20 12:25:32",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190138/1776662732_b36fd98d641fc5e0498e.pdf"
+        },
         {
           "id": "50320",
           "description": "นายสุชาติ แสนสุภา",
@@ -2492,6 +2514,13 @@
       "row_num": 128,
       "orders": [
         {
+          "id": "76049",
+          "description": "คำสั่งเรื่อง-แต่งตั้งคณะกรรมการวิชาการ-ปพ3-ออนไลน์",
+          "upload_user": "ทวีวรรณ เคนนาดี",
+          "created_at": "2026-04-19 14:50:41",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190183/1776585040_b3de1f523a869b478794.pdf"
+        },
+        {
           "id": "45313",
           "description": "คำสั่งเรื่อง-แต่งตั้งคณะกรรมการวิชาการ-ปพ3-ออนไลน์",
           "upload_user": "ทวีวรรณ เคนนาดี",
@@ -2757,6 +2786,13 @@
       "name": "บ้านนาเลียง",
       "row_num": 142,
       "orders": [
+        {
+          "id": "76340",
+          "description": "คำสั่งคณะกรรมการวิชาการ",
+          "upload_user": "อรุณวรรณ โสมชิน",
+          "created_at": "2026-04-20 22:32:26",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190198/1776699146_12b823b2ef0cebd7bdc6.pdf"
+        },
         {
           "id": "9295",
           "description": "คำสั่งคณะกรรมการวิชาการ",
@@ -4374,11 +4410,11 @@
       "row_num": 226,
       "orders": [
         {
-          "id": "75355",
+          "id": "76015",
           "description": "คำสั่งแต่งตั้ง นายทะเบียน ผู้ตรวจทาน ผู้อนุมัติ",
           "upload_user": "รุ้งรดา ติโนชัง",
-          "created_at": "2026-04-12 07:18:04",
-          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190341/1775953084_6199762e3f60ce6518e3.pdf"
+          "created_at": "2026-04-19 09:51:04",
+          "url": "https://gpa.obec.go.th/smart/gf/pdf/uploads?file=boards/1048190341/1776567064_13216bed7a2514c4c3e4.pdf"
         },
         {
           "id": "22441",
